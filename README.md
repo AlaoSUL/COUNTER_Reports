@@ -8,12 +8,12 @@ Project COUNTER’s mission “COUNTER exists to develop and maintain the standa
 
 COUNTER's standardized usage reports allow libraries to:
 
-• Compare usage easily across different publisher platforms & vendors and reports/formats are standard
-• Assess user activity, in relationship to their content & improve user experience
-• Inform renewal and new purchasing decisions
-• Justify budget spend to their stakeholders
-• Inform faculty/power-users about the value & use of current library resources
-• Derive “cost-per-use” for content
+- Compare usage easily across different publisher platforms & vendors and reports/formats are standard
+- Assess user activity, in relationship to their content & improve user experience
+- Inform renewal and new purchasing decisions
+- Justify budget spend to their stakeholders
+- Inform faculty/power-users about the value & use of current library resources
+- Derive “cost-per-use” for content
 
 ### Whom is COUNTER for?
 
@@ -42,40 +42,41 @@ In the manual you will see:
 
 It explains:
 
-Item Metrics
-Title Metrics
-Calculating cost per use
-Reports
-Hourly sessions
-Automatic time-outs
+- Item Metrics
+- Title Metrics
+- Calculating cost per use
+- Reports
+- Hourly sessions
+- Automatic time-outs
 
 2. Journals: Understanding metrics and standard views
 
 It explains:
 
-Item Metrics
-Calculating cost per use
-Reports
-Sessions
-Trend data
-Open Access usage
+- Item Metrics
+- Calculating cost per use
+- Reports
+- Sessions
+- Trend data
+- Open Access usage
 
 3. Comparing Counts between Release 4 and Release 5
 
-We look at examples of the new Release 5 Standard Views, and compare them to the corresponding
-Release 4 reports. This will highlight the new metric types so that you can
-see how they affect cost-per-use calculations, and how they offer new possibilities for the usage analysis.
+- We look at examples of the new Release 5 Standard Views, and compare them to the corresponding
+Release 4 reports.
+- Highlight the new metric types so that you can see how they affect cost-per-use calculations
+- Offer new possibilities for the usage analysis
 
 4. Database reports
 
 It explains:
 
-Metrics
-Different Types of Databases
-Searches
-Sessions
-The Database Master Report and its Standard Views
-Comparing between Release 4 and Release 5
+- Metrics
+- Different Types of Databases
+- Searches
+- Sessions
+- The Database Master Report and its Standard Views
+- Comparing between Release 4 and Release 5
 
 ### Details and Specifications of COUNTER reports
 
