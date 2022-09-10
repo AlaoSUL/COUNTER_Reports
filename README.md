@@ -38,7 +38,7 @@ In the manual you will see:
 - the main COUNTER reports and how to use them
 - how to track trends by comparing the correct figures between Release 4 and Release 5 reports
 
-1. Books: Understanding metrics and standard views
+#### Books: Understanding metrics and standard views
 
 It explains:
 
@@ -49,7 +49,7 @@ It explains:
 - Hourly sessions
 - Automatic time-outs
 
-2. Journals: Understanding metrics and standard views
+#### Journals: Understanding metrics and standard views
 
 It explains:
 
@@ -60,14 +60,14 @@ It explains:
 - Trend data
 - Open Access usage
 
-3. Comparing Counts between Release 4 and Release 5
+#### Comparing Counts between Release 4 and Release 5
 
 - We look at examples of the new Release 5 Standard Views, and compare them to the corresponding
 Release 4 reports.
 - Highlight the new metric types so that you can see how they affect cost-per-use calculations
 - Offer new possibilities for the usage analysis
 
-4. Database reports
+#### Database reports
 
 It explains:
 
