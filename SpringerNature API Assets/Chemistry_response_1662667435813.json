@@ -1,0 +1,975 @@
+{
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "subject:Chemistry",
+  "apiKey": "2eb0b389c24b522eae03cdc58b9c069c",
+  "nextPage": "/meta/v2/json?q=subject:Chemistry&s=11&p=10&api_key=2eb0b389c24b522eae03cdc58b9c069c",
+  "result": [
+    {
+      "total": "960513",
+      "start": "1",
+      "pageLength": "10",
+      "recordsDisplayed": "10"
+    }
+  ],
+  "records": [
+    {
+      "contentType": "Article",
+      "identifier": "doi:10.1007/s10118-022-2749-6",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s10118-022-2749-6"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/s10118-022-2749-6"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1007/s10118-022-2749-6"
+        }
+      ],
+      "title": "New Kinetics Equation for Stress Relaxation of Semi-crystalline Polymers below Glass Transition Temperature",
+      "creators": [
+        {
+          "creator": "Zhang, Cheng"
+        },
+        {
+          "creator": "Cai, Li-Hai"
+        },
+        {
+          "creator": "Guo, Bao-Hua"
+        },
+        {
+          "creator": "Miao, Bing"
+        },
+        {
+          "creator": "Xu, Jun"
+        }
+      ],
+      "publicationName": "Chinese Journal of Polymer Science",
+      "openaccess": "false",
+      "doi": "10.1007/s10118-022-2749-6",
+      "publisher": "Springer",
+      "publicationDate": "2023-06-28",
+      "publicationType": "Journal",
+      "issn": "0256-7679",
+      "eIssn": "1439-6203",
+      "volume": "",
+      "number": "",
+      "issueType": "",
+      "topicalCollection": "",
+      "genre": [
+        "OriginalPaper",
+        "Research Article"
+      ],
+      "startingPage": "1",
+      "endingPage": "8",
+      "journalId": "10118",
+      "onlineDate": "2023-06-28",
+      "copyright": "©2022 Chinese Chemical Society Institute of Chemistry, Chinese Academy of Sciences",
+      "abstract": "The stress relaxation of semi-crystalline nylon 1010 cannot be fitted by the Kohlrausch-Williams-Watts formula when the experiments were performed at pre-yielding regime below the glass transition temperature. We study this problem and identify the two-step mechanism of stress relaxation. At short time scale, relaxation is fast, dominated by stress biased thermal fluctuation with a fixed short-range length scale (activation volume). At long time scale, relaxation is slow due to the emergence of a cooperative long-range length scale determined by the stress fluctuation. The cooperative length scale is proportional to the reciprocal of stress and the amplitude of stress fluctuation is the product of stress and activation volume. Based on this two-step mechanism, we propose a new kinetics equation to capture the stress relaxation effectively, where the short time relaxation is described by an Eyring-like local activation and the long-time relaxation is captured by a cooperative excitation process resorting to an extension from the random first order transition theory. Our equation fits the experimental data well and can serve as a model to guide the related experiments of relaxation processes in crystalline solids.",
+      "conferenceInfo": [],
+      "keyword": [
+        "Stress relaxation",
+        "Semi-crystalline polymers",
+        "Kohlrausch-Williams-Watts (KWW) equation",
+        "Random first order transition (RFOT) theory"
+      ]
+    },
+    {
+      "contentType": "Chapter",
+      "identifier": "doi:10.1007/978-3-030-65433-7_23",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-030-65433-7_23"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-030-65433-7_23"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1007/978-3-030-65433-7_23"
+        }
+      ],
+      "title": "Fruits and Vegetables",
+      "creators": [
+        {
+          "creator": "Owusu-Apenten, Richard"
+        },
+        {
+          "creator": "Vieira, Ernest"
+        }
+      ],
+      "bookEditors": [],
+      "publicationName": "Elementary Food Science",
+      "openaccess": "false",
+      "doi": "10.1007/978-3-030-65433-7_23",
+      "publisher": "Springer",
+      "publicationDate": "2023-01-01",
+      "publicationType": "Book",
+      "printIsbn": "978-3-030-65431-3",
+      "electronicIsbn": "978-3-030-65433-7",
+      "isbn": "978-3-030-65431-3",
+      "genre": "OriginalPaper Contributed volume",
+      "onlineDate": "2022-05-29",
+      "copyright": "©2023 Springer Nature Switzerland AG",
+      "abstract": "The benefits of eating fresh fruits, vegetables and nuts have been recognized for many decades. This chapter describes the production and processing of fruits, vegetables and nuts. The chapter is divided into four main sections. (1). Introduction, signficance of fruit and vegetables, fruit and vegetable production, cultivation issues for vegetable, fruit and vegetable processing industries, United States export and import trade in fruits and vegetables, world production of fruits and vegetables. (2). Fruits. Posthavest fruit maturation and ripening, grapes and raisins, apples, bananas, oranges, other fruits. (3). Vegetables, tomatoes, cabbage, cucumbers, green and wax beans, broccoli, lettuce, olives, potatoes, tea, other vegetables and further reading. (4). Minimally processed products, fresh-cut products, microbial food safety of fruit and vegetables, deterioration and preservation methods for MPFV & further reading. With 87 references.",
+      "conferenceInfo": []
+    },
+    {
+      "contentType": "Chapter",
+      "identifier": "doi:10.1007/978-3-030-65433-7_11",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-030-65433-7_11"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-030-65433-7_11"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1007/978-3-030-65433-7_11"
+        }
+      ],
+      "title": "Basic Considerations for Food Processing",
+      "creators": [
+        {
+          "creator": "Owusu-Apenten, Richard"
+        },
+        {
+          "creator": "Vieira, Ernest"
+        }
+      ],
+      "bookEditors": [],
+      "publicationName": "Elementary Food Science",
+      "openaccess": "false",
+      "doi": "10.1007/978-3-030-65433-7_11",
+      "publisher": "Springer",
+      "publicationDate": "2023-01-01",
+      "publicationType": "Book",
+      "printIsbn": "978-3-030-65431-3",
+      "electronicIsbn": "978-3-030-65433-7",
+      "isbn": "978-3-030-65431-3",
+      "genre": "OriginalPaper Contributed volume",
+      "onlineDate": "2022-05-29",
+      "copyright": "©2023 Springer Nature Switzerland AG",
+      "abstract": "Food processing is an ancient human activity that includes traditional methods like washing, heating and drying foodstuffs. The aim of this chapter to summarize basic considerations for food processing. The chapter is divided into six sections. (1) Introduction, general principles & scope, definition and significance of food processing, aims and benefits of food processing. (2) Forms of food processing, primary and secondary processing, traditional versus modern food processing, and overlaps, unit operations for food processing, minimally and moderately processed foods. (3) Benefits and downside of food processing, improved storage life through preservation, sensory quality, nutrient losses and toxic compounds. (4) Consumer benefits, novelty and innovation, convenience, other benefits of processed foods. (5) Ultra-processed foods, ultra-processed foods and composition, nova classification of processed foods, criticisms of ultra-processed terminology, significance of ultra-processed food dietary patterns, (6) Alternative food and health relations, technology access and rising obesity, feminist analysis of work patterns and food work, policy and healthy food environments, six. Conclusions. With more than 50 reference citations.",
+      "conferenceInfo": []
+    },
+    {
+      "contentType": "Chapter",
+      "identifier": "doi:10.1007/978-3-030-65433-7_16",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-030-65433-7_16"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-030-65433-7_16"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1007/978-3-030-65433-7_16"
+        }
+      ],
+      "title": "Food Additives",
+      "creators": [
+        {
+          "creator": "Owusu-Apenten, Richard"
+        },
+        {
+          "creator": "Vieira, Ernest"
+        }
+      ],
+      "bookEditors": [],
+      "publicationName": "Elementary Food Science",
+      "openaccess": "false",
+      "doi": "10.1007/978-3-030-65433-7_16",
+      "publisher": "Springer",
+      "publicationDate": "2023-01-01",
+      "publicationType": "Book",
+      "printIsbn": "978-3-030-65431-3",
+      "electronicIsbn": "978-3-030-65433-7",
+      "isbn": "978-3-030-65431-3",
+      "genre": "OriginalPaper Contributed volume",
+      "onlineDate": "2022-05-29",
+      "copyright": "©2023 Springer Nature Switzerland AG",
+      "abstract": "Food additives are added to foods to achieve technological functions but some are incidental compounds. The aim of this chapter is to introduce readers to food additives and other substances added to foods. The chapter is into 6 sections. (1) Introduction, history of chemical additives, significance of food additives, definition of food additives, functional classification of food additives. (2) Additives legislation, the 1958 food additive act, the Delaney clause 1959, gererally recognized as safe compounds, approved lists for additives, international regulations for food additives, labeling requirements for food additives. (3) Sensory additives, colorants, flavors and flavor enhancers, sweeteners, thickening agents, gelling agents. (4) Nutrient additives, vitamins, protamino acideins and s, minerals. (5) Processing aides, acidulants, alkaline compounds, enzymes, surface-active agents, leavining agents. (6) Chemical preservatives, antioxidants, antimicrobial agents, ionizing radiation. With 36 references citations.",
+      "conferenceInfo": []
+    },
+    {
+      "contentType": "Chapter",
+      "identifier": "doi:10.1007/978-3-030-65433-7_24",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-030-65433-7_24"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-030-65433-7_24"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1007/978-3-030-65433-7_24"
+        }
+      ],
+      "title": "Sugar and Confectionery Products",
+      "creators": [
+        {
+          "creator": "Owusu-Apenten, Richard"
+        },
+        {
+          "creator": "Vieira, Ernest"
+        }
+      ],
+      "bookEditors": [],
+      "publicationName": "Elementary Food Science",
+      "openaccess": "false",
+      "doi": "10.1007/978-3-030-65433-7_24",
+      "publisher": "Springer",
+      "publicationDate": "2023-01-01",
+      "publicationType": "Book",
+      "printIsbn": "978-3-030-65431-3",
+      "electronicIsbn": "978-3-030-65433-7",
+      "isbn": "978-3-030-65431-3",
+      "genre": "OriginalPaper Contributed volume",
+      "onlineDate": "2022-05-29",
+      "copyright": "©2023 Springer Nature Switzerland AG",
+      "abstract": "The aims of the chapter is to introduce sugar and confectionery products (S&C). The chapter is divided into five sections: (1). Introduction, the sugar and confectionery industries, commercial sugar supplies, uses of sugar. (2). Cane sugar manufacturing, sugar cane, processing cane sugar. (3). Beet sugar manufacturing, sugar beet, processing beet sugar. (4). Other sugar sources, maple syrup, corn syrup or glucose syrup, invert sugar, (5). Sugar confectionery, global confectionery sales, confectionery art and science, Candy making. With 17 references.",
+      "conferenceInfo": []
+    },
+    {
+      "contentType": "Chapter",
+      "identifier": "doi:10.1007/978-3-030-65433-7_12",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-030-65433-7_12"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-030-65433-7_12"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1007/978-3-030-65433-7_12"
+        }
+      ],
+      "title": "Thermal Processing and Canning",
+      "creators": [
+        {
+          "creator": "Owusu-Apenten, Richard"
+        },
+        {
+          "creator": "Vieira, Ernest"
+        }
+      ],
+      "bookEditors": [],
+      "publicationName": "Elementary Food Science",
+      "openaccess": "false",
+      "doi": "10.1007/978-3-030-65433-7_12",
+      "publisher": "Springer",
+      "publicationDate": "2023-01-01",
+      "publicationType": "Book",
+      "printIsbn": "978-3-030-65431-3",
+      "electronicIsbn": "978-3-030-65433-7",
+      "isbn": "978-3-030-65431-3",
+      "genre": "OriginalPaper Contributed volume",
+      "onlineDate": "2022-05-29",
+      "copyright": "©2023 Springer Nature Switzerland AG",
+      "abstract": "There are many forms of thermal processing but commercial sterilization or canning is one of the best known. The aims of this chapter is to introduce the reader to food canning. The chapter is divided into ten sections. 1. Introduction, history of thermal processing, canning not as we know it. 2. Commercial sterilization or canning, definition, structure of the tin can, filling the can, liquid in cans, pretreatment of foods, vacuum in cans, sealing the cans, the heat process. 3. The conventional heat-processing, chamber retort, cooling heat-processed foods, canning of acid foods. 4. Other methods of heat processing, continuous agitating retort, the hydrostatic cooker, aseptic fill method, cooking under pressure, the sous-vide process, microwave processing. 5. Containers, cans, flexible pouches, glass containers. Microwavable containers, plastic, flexible container. 6. Warehouse storage of canned foods. 7. FDA regulations and safety. 8. Basic principles of thermal processing, temperature and heat, heat capacity, heat transfer, cooking and cooking methods, pasteurization of liquid foods, blanching fresh fruits and vegetables. 9. Bacterial death kinetics, rational and kinetic considerations, decimal reduction time (D-value), the reference F-value and lethality. 10. Estimating processing times, intuitive estimation of process times, instantaneous F-value and lethality calculations, total lethality calculations. With 67 references.",
+      "conferenceInfo": []
+    },
+    {
+      "contentType": "Chapter",
+      "identifier": "doi:10.1007/978-3-030-65433-7_17",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-030-65433-7_17"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-030-65433-7_17"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1007/978-3-030-65433-7_17"
+        }
+      ],
+      "title": "Meat",
+      "creators": [
+        {
+          "creator": "Owusu-Apenten, Richard"
+        },
+        {
+          "creator": "Vieira, Ernest"
+        }
+      ],
+      "bookEditors": [],
+      "publicationName": "Elementary Food Science",
+      "openaccess": "false",
+      "doi": "10.1007/978-3-030-65433-7_17",
+      "publisher": "Springer",
+      "publicationDate": "2023-01-01",
+      "publicationType": "Book",
+      "printIsbn": "978-3-030-65431-3",
+      "electronicIsbn": "978-3-030-65433-7",
+      "isbn": "978-3-030-65431-3",
+      "genre": "OriginalPaper Contributed volume",
+      "onlineDate": "2022-05-29",
+      "copyright": "©2023 Springer Nature Switzerland AG",
+      "abstract": "Meat and poultry products for human consumption are described in the chapter, which is divided into 5 sections. 1. Introduction, defining meat, the US meat industry at a glance, global meat production, meat preferences worldwide, meat intake and income, potential safety issues related to eating meat. 2. General meat processing, slaughter, cutting and dressing, carcass ageing, meat inspection, cooking meat. 3. Meat products, beef and veal, pork, lamb and mutton, processed meat products. 4. Cured meat products, ham, smoked cured ham, bacon, corned beef and pastrami. 5. Sausage products, fresh sausages, frankfurters and hotdogs, bologna, dried sausages. With 52 references.",
+      "conferenceInfo": []
+    },
+    {
+      "contentType": "Chapter",
+      "identifier": "doi:10.1007/978-3-030-65433-7_25",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-030-65433-7_25"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-030-65433-7_25"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1007/978-3-030-65433-7_25"
+        }
+      ],
+      "title": "Foodservices",
+      "creators": [
+        {
+          "creator": "Owusu-Apenten, Richard"
+        },
+        {
+          "creator": "Vieira, Ernest"
+        }
+      ],
+      "bookEditors": [],
+      "publicationName": "Elementary Food Science",
+      "openaccess": "false",
+      "doi": "10.1007/978-3-030-65433-7_25",
+      "publisher": "Springer",
+      "publicationDate": "2023-01-01",
+      "publicationType": "Book",
+      "printIsbn": "978-3-030-65431-3",
+      "electronicIsbn": "978-3-030-65433-7",
+      "isbn": "978-3-030-65431-3",
+      "genre": "OriginalPaper Contributed volume",
+      "onlineDate": "2022-05-29",
+      "copyright": "©2023 Springer Nature Switzerland AG",
+      "abstract": "The chapter describes the foodservice sector, which is a major part of the food industry. The chapter is divided into five sections. 1. Introduction, general principles, characteristics of the foodservice sector (NAICS 722), classification of foodservice businesses, non-contract foodservices, contract foodservices as institutional providers, economic significance of the foodservice sector. 2. Choosing foodservice systems, conventional and centralized foodservices, advantages and disadvantages of different foodservices, food transit through foodservice systems, processing continuum for the foodservice, foodservice sustainability and waste consideration.3. Institutional foodservices, definitions, foodservice demographic considerations, menus types, consumer satisfaction with foodservices, management service companies, 4. USDA food programs, school food programs, child and adult care food programs, nutritional guidelines for foodservices, evaluation of school foodservice nutrition programs. 5. Food safety & hygiene for foodservices, regulatory requirements for food safety, foodborne disease outbreaks and foodservices. With 65 references.",
+      "conferenceInfo": []
+    },
+    {
+      "contentType": "Chapter",
+      "identifier": "doi:10.1007/4243_2020_20",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/4243_2020_20"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/4243_2020_20"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1007/4243_2020_20"
+        }
+      ],
+      "title": "Circularly Polarized Emission of Lanthanide Ion Complexes",
+      "creators": [
+        {
+          "creator": "Arrico, Lorenzo"
+        },
+        {
+          "creator": "Bari, Lorenzo"
+        }
+      ],
+      "bookEditors": [
+        {
+          "bookEditor": "de Bettencourt-Dias, Ana"
+        }
+      ],
+      "publicationName": "Modern Applications of Lanthanide Luminescence",
+      "openaccess": "false",
+      "doi": "10.1007/4243_2020_20",
+      "publisher": "Springer",
+      "publicationDate": "2023-01-01",
+      "publicationType": "Book",
+      "printIsbn": "978-3-031-12858-5",
+      "electronicIsbn": "978-3-031-12859-2",
+      "isbn": "978-3-031-12858-5",
+      "genre": "OriginalPaper Reviews",
+      "onlineDate": "2021-02-17",
+      "copyright": "©2023 Springer Nature Switzerland AG",
+      "abstract": "A research field, where Ln^3+ ions dominate the scene for their unique properties is the emission of circularly polarized light primarily under photo-excitation, but also as the consequence of other energy transfer processes. In this chapter we shall summarize some fundamental aspects of this phenomenon, with a close look to applications.",
+      "conferenceInfo": [],
+      "keyword": [
+        "Chirality",
+        "Electromagnetic radiation",
+        "Lanthanide",
+        "Luminescence",
+        "Polarization",
+        "Spectroscopy"
+      ]
+    },
+    {
+      "contentType": "Chapter",
+      "identifier": "doi:10.1007/4243_2020_18",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/4243_2020_18"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/4243_2020_18"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1007/4243_2020_18"
+        }
+      ],
+      "title": "Visible Emitting Lanthanide Ions in Bioimaging",
+      "creators": [
+        {
+          "creator": "Chauvin, Anne-Sophie"
+        }
+      ],
+      "bookEditors": [
+        {
+          "bookEditor": "de Bettencourt-Dias, Ana"
+        }
+      ],
+      "publicationName": "Modern Applications of Lanthanide Luminescence",
+      "openaccess": "false",
+      "doi": "10.1007/4243_2020_18",
+      "publisher": "Springer",
+      "publicationDate": "2023-01-01",
+      "publicationType": "Book",
+      "printIsbn": "978-3-031-12858-5",
+      "electronicIsbn": "978-3-031-12859-2",
+      "isbn": "978-3-031-12858-5",
+      "genre": "OriginalPaper Reviews",
+      "onlineDate": "2021-02-25",
+      "copyright": "©2023 Springer Nature Switzerland AG",
+      "abstract": "Lanthanide cation, once incorporated with a ligand, provides a complex for which luminescence can be observed. The stability of the complex and its inertness are essential. The ligand design is very important to provide good luminescent properties, such as brightness, quantum yield (including overall quantum yield Φ_L^Ln, intrinsic quantum yield Φ_Ln^Ln, sensitization efficiency η _sens). The less water molecules in the inner sphere, the best luminescence properties expected. A study case is presented with two dipicolinato-based ligands. Practical details are being discussed in order to avoid bias when measuring photophysical properties. The prerequisite for getting a good probe is presented, as well as the ones to be used as a bioprobe. Recent advances in the field are discussed and illustrated through the presentation of several bioprobes.",
+      "conferenceInfo": [],
+      "keyword": [
+        "Fluorescence",
+        "Absorption",
+        "Bioimaging",
+        "Bioprobe",
+        "Cell permeation",
+        "Electronic transition",
+        "Emission",
+        "Emitter",
+        "Excitation",
+        "Fluorescence",
+        "Immunoassay",
+        "Lanthanide",
+        "Luminescence",
+        "Phosphorescence",
+        "Photophysic",
+        "Quantum yield",
+        "Sensitization",
+        "Sensoring",
+        "Spectroscopy",
+        "Stability",
+        "Targeting"
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Chemistry",
+          "count": "960513"
+        },
+        {
+          "value": "Physical Chemistry",
+          "count": "318807"
+        },
+        {
+          "value": "Analytical Chemistry",
+          "count": "252237"
+        },
+        {
+          "value": "Food Science",
+          "count": "234831"
+        },
+        {
+          "value": "Inorganic Chemistry",
+          "count": "198636"
+        },
+        {
+          "value": "Organic Chemistry",
+          "count": "197015"
+        },
+        {
+          "value": "Characterization and Evaluation of Materials",
+          "count": "195596"
+        },
+        {
+          "value": "Chemistry/Food Science, general",
+          "count": "168689"
+        },
+        {
+          "value": "Biochemistry, general",
+          "count": "163874"
+        },
+        {
+          "value": "Polymer Sciences",
+          "count": "160708"
+        },
+        {
+          "value": "Industrial Chemistry/Chemical Engineering",
+          "count": "153197"
+        },
+        {
+          "value": "Biotechnology",
+          "count": "122094"
+        },
+        {
+          "value": "Laboratory Medicine",
+          "count": "117560"
+        },
+        {
+          "value": "Monitoring/Environmental Analysis",
+          "count": "105288"
+        },
+        {
+          "value": "Agriculture",
+          "count": "57635"
+        },
+        {
+          "value": "Catalysis",
+          "count": "56842"
+        },
+        {
+          "value": "Pharmacy",
+          "count": "50295"
+        },
+        {
+          "value": "Theoretical and Computational Chemistry",
+          "count": "45508"
+        },
+        {
+          "value": "Materials Science, general",
+          "count": "42550"
+        },
+        {
+          "value": "Biomaterials",
+          "count": "42375"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": [
+        {
+          "value": "Physical Chemistry",
+          "count": "33049"
+        },
+        {
+          "value": "Inorganic Chemistry",
+          "count": "26359"
+        },
+        {
+          "value": "Organic Chemistry",
+          "count": "16245"
+        },
+        {
+          "value": "Polymer",
+          "count": "11783"
+        },
+        {
+          "value": "Analytical Chemistry",
+          "count": "7634"
+        },
+        {
+          "value": "Spectroscopy",
+          "count": "6657"
+        },
+        {
+          "value": "Catalysis",
+          "count": "6483"
+        },
+        {
+          "value": "Oxidation",
+          "count": "5499"
+        },
+        {
+          "value": "Hydrogen",
+          "count": "5154"
+        },
+        {
+          "value": "calorimetry",
+          "count": "4132"
+        },
+        {
+          "value": "Chloride",
+          "count": "3904"
+        },
+        {
+          "value": "Adsorption",
+          "count": "3768"
+        },
+        {
+          "value": "Nonelectrolytes",
+          "count": "3668"
+        },
+        {
+          "value": "aqueous organic mixtures",
+          "count": "3665"
+        },
+        {
+          "value": "Binary liquid systems",
+          "count": "3663"
+        },
+        {
+          "value": "Heat of mixing and solution",
+          "count": "3663"
+        },
+        {
+          "value": "inorganic mixtures",
+          "count": "3663"
+        },
+        {
+          "value": "Organic mixtures",
+          "count": "3663"
+        },
+        {
+          "value": "Neural Network",
+          "count": "3598"
+        },
+        {
+          "value": "Copper",
+          "count": "3515"
+        }
+      ]
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Fresenius' Zeitschrift für analytische Chemie",
+          "count": "55405"
+        },
+        {
+          "value": "Encyclopedic Dictionary of Polymers",
+          "count": "28201"
+        },
+        {
+          "value": "Zeitschrift für analytische Chemie",
+          "count": "24591"
+        },
+        {
+          "value": "Bulletin of the Academy of Sciences of the USSR, Division of chemical science",
+          "count": "24282"
+        },
+        {
+          "value": "Journal of Radioanalytical and Nuclear Chemistry",
+          "count": "20640"
+        },
+        {
+          "value": "Journal of Thermal Analysis and Calorimetry",
+          "count": "17103"
+        },
+        {
+          "value": "Chemistry of Heterocyclic Compounds",
+          "count": "16645"
+        },
+        {
+          "value": "Analytical and Bioanalytical Chemistry",
+          "count": "16508"
+        },
+        {
+          "value": "Colloid and Polymer Science",
+          "count": "13255"
+        },
+        {
+          "value": "Microchimica Acta",
+          "count": "13248"
+        },
+        {
+          "value": "Chromatographia",
+          "count": "12844"
+        },
+        {
+          "value": "Russian Chemical Bulletin",
+          "count": "12571"
+        },
+        {
+          "value": "Chemical and Petroleum Engineering",
+          "count": "12315"
+        },
+        {
+          "value": "Journal of Structural Chemistry",
+          "count": "12244"
+        },
+        {
+          "value": "Zeitschrift für Lebensmittel-Untersuchung und Forschung",
+          "count": "11724"
+        },
+        {
+          "value": "Polymer Bulletin",
+          "count": "10076"
+        },
+        {
+          "value": "Catalysis Letters",
+          "count": "9699"
+        },
+        {
+          "value": "Applied Biochemistry and Biotechnology",
+          "count": "9694"
+        },
+        {
+          "value": "Kolloid-Zeitschrift",
+          "count": "9604"
+        },
+        {
+          "value": "Russian Journal of General Chemistry",
+          "count": "9346"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2023",
+          "count": "35"
+        },
+        {
+          "value": "2022",
+          "count": "26216"
+        },
+        {
+          "value": "2021",
+          "count": "29347"
+        },
+        {
+          "value": "2020",
+          "count": "27962"
+        },
+        {
+          "value": "2019",
+          "count": "28655"
+        },
+        {
+          "value": "2018",
+          "count": "30852"
+        },
+        {
+          "value": "2017",
+          "count": "27378"
+        },
+        {
+          "value": "2016",
+          "count": "30294"
+        },
+        {
+          "value": "2015",
+          "count": "29339"
+        },
+        {
+          "value": "2014",
+          "count": "27839"
+        },
+        {
+          "value": "2013",
+          "count": "33884"
+        },
+        {
+          "value": "2012",
+          "count": "26281"
+        },
+        {
+          "value": "2011",
+          "count": "37905"
+        },
+        {
+          "value": "2010",
+          "count": "20996"
+        },
+        {
+          "value": "2009",
+          "count": "21002"
+        },
+        {
+          "value": "2008",
+          "count": "19864"
+        },
+        {
+          "value": "2007",
+          "count": "30642"
+        },
+        {
+          "value": "2006",
+          "count": "16069"
+        },
+        {
+          "value": "2005",
+          "count": "14181"
+        },
+        {
+          "value": "2004",
+          "count": "18319"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "Russia",
+          "count": "139571"
+        },
+        {
+          "value": "United States",
+          "count": "98217"
+        },
+        {
+          "value": "China",
+          "count": "83780"
+        },
+        {
+          "value": "Germany",
+          "count": "83414"
+        },
+        {
+          "value": "India",
+          "count": "45684"
+        },
+        {
+          "value": "Japan",
+          "count": "38815"
+        },
+        {
+          "value": "United Kingdom",
+          "count": "27764"
+        },
+        {
+          "value": "France",
+          "count": "25303"
+        },
+        {
+          "value": "South Korea",
+          "count": "21995"
+        },
+        {
+          "value": "Iran",
+          "count": "19653"
+        },
+        {
+          "value": "Italy",
+          "count": "17384"
+        },
+        {
+          "value": "",
+          "count": "17086"
+        },
+        {
+          "value": "Austria",
+          "count": "16650"
+        },
+        {
+          "value": "Spain",
+          "count": "16227"
+        },
+        {
+          "value": "Poland",
+          "count": "15241"
+        },
+        {
+          "value": "Canada",
+          "count": "13621"
+        },
+        {
+          "value": "Brazil",
+          "count": "12182"
+        },
+        {
+          "value": "Ukraine",
+          "count": "11412"
+        },
+        {
+          "value": "Switzerland",
+          "count": "9212"
+        },
+        {
+          "value": "Turkey",
+          "count": "9178"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Journal",
+          "count": "774797"
+        },
+        {
+          "value": "Book",
+          "count": "185716"
+        }
+      ]
+    }
+  ]
+}

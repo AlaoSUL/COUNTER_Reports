@@ -1,0 +1,1278 @@
+<?xml version="1.0"?>
+  <?xml-stylesheet type="text/xsl" href="/resources/spdi-meta-v2-jats.xsl"?>
+    <!DOCTYPE response [
+	
+<!ENTITY % article SYSTEM "http://jats.nlm.nih.gov/archiving/1.2/JATS-archivearticle1.dtd">
+    <!ENTITY % book-part-wrapper SYSTEM "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+    
+	]>
+    <response>
+      <apiMessage>This XML was provided by Springer Nature</apiMessage>
+      <query>=subject:Mathematics</query>
+      <apiKey>2eb0b389c24b522eae03cdc58b9c069c</apiKey>
+      <nextPage>/meta/v2/jats?q==subject:Mathematics&amp;s=11&amp;p=10&amp;api_key=2eb0b389c24b522eae03cdc58b9c069c</nextPage>
+      <result>
+        <total>636927</total>
+        <start>1</start>
+        <pageLength>10</pageLength>
+        <recordsDisplayed>10</recordsDisplayed>
+      </result>
+      <records>
+        <book-part-wrapper dtd-version="2.0" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <book-meta>
+            <book-id book-id-type="doi">10.1007/978-3-031-05347-4</book-id>
+            <book-title-group>
+              <book-title>Predictive Analytics in System Reliability</book-title>
+            </book-title-group>
+            <contrib-group content-type="book editors">
+              <contrib contrib-type="editor">
+                <name>
+                  <surname>Kumar</surname>
+                  <given-names>Vijay</given-names>
+                </name>
+              </contrib>
+              <contrib contrib-type="editor">
+                <name>
+                  <surname>Pham</surname>
+                  <given-names>Hoang</given-names>
+                </name>
+              </contrib>
+            </contrib-group>
+            <pub-date date-type="pub">
+              <string-date>2023-01-01</string-date>
+            </pub-date>
+            <isbn content-type="ppub">978-3-031-05346-7</isbn>
+            <isbn content-type="epub">978-3-031-05347-4</isbn>
+            <publisher>
+              <publisher-name>Springer International Publishing</publisher-name>
+            </publisher>
+            <permissions>
+              <copyright-statement content-type="compact">© The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Switzerland AG 2023</copyright-statement>
+            </permissions>
+            <self-uri specific-use="web" content-type="html">http://dx.doi.org/10.1007/978-3-031-05347-4</self-uri>
+            <custom-meta-group>
+              <custom-meta>
+                <meta-name>book-product-type</meta-name>
+                <meta-value>Monograph</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-primary</meta-name>
+                <meta-value>Mathematics</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-secondary</meta-name>
+                <meta-value>Mathematical Modeling and Industrial Mathematics</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-secondary</meta-name>
+                <meta-value>Risk Management</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-secondary</meta-name>
+                <meta-value>Engineering Economics, Organization, Logistics, Marketing</meta-value>
+              </custom-meta>
+            </custom-meta-group>
+          </book-meta>
+          <book-part book-part-type="chapter">
+            <book-part-meta>
+              <book-part-id book-part-id-type="doi">10.1007/978-3-031-05347-4_16</book-part-id>
+              <title-group>
+                <title>Mathematical Modeling for Evaluation Reliability of a Bleaching System</title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Tyagi</surname>
+                    <given-names>Subhi</given-names>
+                  </name>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Kumar</surname>
+                    <given-names>Akshay</given-names>
+                  </name>
+                  <address>
+                    <email>akshaykr1001@gmail.com</email>
+                  </address>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Goyal</surname>
+                    <given-names>Nupur</given-names>
+                  </name>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Ram</surname>
+                    <given-names>Mangey</given-names>
+                  </name>
+                </contrib>
+              </contrib-group>
+              <pub-date date-type="pub" publication-format="electronic">
+                <day>09</day>
+                <month>09</month>
+                <year>2022</year>
+              </pub-date>
+              <fpage>247</fpage>
+              <lpage>262</lpage>
+              <self-uri specific-use="web" content-type="html">http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-05347-4_16</self-uri>
+              <self-uri specific-use="web" content-type="pdf">http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-031-05347-4_16</self-uri>
+              <abstract xml:lang="en" id="Abs1">
+                <title>Abstract</title>
+                <p id="Par1">The current research deals with the various reliability measures analysis for a complex bleaching system. The system has a complex structure with three subsystems A, B and C associated to each other in series arrangement. The subsystem A has only one unit and subsystem B and C have two identical units which are connected in parallel configuration with each other. In both the cases (B and C), second unit is in standby. The assumed bleaching framework has three type of states i.e., working, partially working and failed. The framework is assumed to be repaired from the degraded and failed states. Mathematical model of the designed framework is solved by means of supplementary variable technique and Markov process. Laplace transform of numerous differential equations is obtained. Various reliability measures such as reliability, availability, mean time to failure and expected cost are evaluated, graphical depiction of the reliability characteristics are also illustrated for the considered system.</p>
+              </abstract>
+              <kwd-group xml:lang="en">
+                <title>Keywords</title>
+                <kwd>Availability</kwd>
+                <kwd>Reliability</kwd>
+                <kwd>Mean time to failure</kwd>
+                <kwd>Cost analysis</kwd>
+                <kwd>Complex bleaching system</kwd>
+                <kwd>Markov process</kwd>
+              </kwd-group>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>chapter-type</meta-name>
+                  <meta-value>OriginalPaper</meta-value>
+                </custom-meta>
+                <custom-meta>
+                  <meta-name>open-access</meta-name>
+                  <meta-value>false</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </book-part-meta>
+          </book-part>
+        </book-part-wrapper>
+        <book-part-wrapper dtd-version="2.0" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <book-meta>
+            <book-id book-id-type="doi">10.1007/978-3-031-05347-4</book-id>
+            <book-title-group>
+              <book-title>Predictive Analytics in System Reliability</book-title>
+            </book-title-group>
+            <contrib-group content-type="book editors">
+              <contrib contrib-type="editor">
+                <name>
+                  <surname>Kumar</surname>
+                  <given-names>Vijay</given-names>
+                </name>
+              </contrib>
+              <contrib contrib-type="editor">
+                <name>
+                  <surname>Pham</surname>
+                  <given-names>Hoang</given-names>
+                </name>
+              </contrib>
+            </contrib-group>
+            <pub-date date-type="pub">
+              <string-date>2023-01-01</string-date>
+            </pub-date>
+            <isbn content-type="ppub">978-3-031-05346-7</isbn>
+            <isbn content-type="epub">978-3-031-05347-4</isbn>
+            <publisher>
+              <publisher-name>Springer International Publishing</publisher-name>
+            </publisher>
+            <permissions>
+              <copyright-statement content-type="compact">© The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Switzerland AG 2023</copyright-statement>
+            </permissions>
+            <self-uri specific-use="web" content-type="html">http://dx.doi.org/10.1007/978-3-031-05347-4</self-uri>
+            <custom-meta-group>
+              <custom-meta>
+                <meta-name>book-product-type</meta-name>
+                <meta-value>Monograph</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-primary</meta-name>
+                <meta-value>Mathematics</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-secondary</meta-name>
+                <meta-value>Mathematical Modeling and Industrial Mathematics</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-secondary</meta-name>
+                <meta-value>Risk Management</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-secondary</meta-name>
+                <meta-value>Engineering Economics, Organization, Logistics, Marketing</meta-value>
+              </custom-meta>
+            </custom-meta-group>
+          </book-meta>
+          <book-part book-part-type="chapter">
+            <book-part-meta>
+              <book-part-id book-part-id-type="doi">10.1007/978-3-031-05347-4_17</book-part-id>
+              <title-group>
+                <title>An Effort Allocation Model for a Three Stage Software Reliability Growth Model</title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Pradhan</surname>
+                    <given-names>Sujit Kumar</given-names>
+                  </name>
+                  <address>
+                    <email>p20180407@goa.bits-pilani.ac.in</email>
+                  </address>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Kumar</surname>
+                    <given-names>Anil</given-names>
+                  </name>
+                  <address>
+                    <email>anilpundir@goa.bits-pilani.ac.in</email>
+                  </address>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Kumar</surname>
+                    <given-names>Vijay</given-names>
+                  </name>
+                  <address>
+                    <email>vijay_parashar@yahoo.com</email>
+                  </address>
+                </contrib>
+              </contrib-group>
+              <pub-date date-type="pub" publication-format="electronic">
+                <day>09</day>
+                <month>09</month>
+                <year>2022</year>
+              </pub-date>
+              <fpage>263</fpage>
+              <lpage>282</lpage>
+              <self-uri specific-use="web" content-type="html">http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-05347-4_17</self-uri>
+              <self-uri specific-use="web" content-type="pdf">http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-031-05347-4_17</self-uri>
+              <abstract xml:lang="en" id="Abs1">
+                <title>Abstract</title>
+                <p id="Par1">This chapter investigates the optimal efforts allocation plan to minimize the total cost during the testing phase of the software development life cycle using three stages fault detection, isolation, and removal under a dynamic environment. We have used three-stage modelling to allocate resources, which incorporates different efforts, i.e. detection effort, isolation effort, and removal effort. We have used the optimal control-theoretic approach to find the optimal policies by considering effort as a control parameter. We also discussed the variations in the future cost of the model by assuming that the cost of detection, isolation and removal follows the learning curve phenomenon. The theoretical results and optimal control theory-based optimized policy is supported by a numerical example.</p>
+              </abstract>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>chapter-type</meta-name>
+                  <meta-value>OriginalPaper</meta-value>
+                </custom-meta>
+                <custom-meta>
+                  <meta-name>open-access</meta-name>
+                  <meta-value>false</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </book-part-meta>
+          </book-part>
+        </book-part-wrapper>
+        <book-part-wrapper dtd-version="2.0" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <book-meta>
+            <book-id book-id-type="doi">10.1007/978-3-031-05347-4</book-id>
+            <book-title-group>
+              <book-title>Predictive Analytics in System Reliability</book-title>
+            </book-title-group>
+            <contrib-group content-type="book editors">
+              <contrib contrib-type="editor">
+                <name>
+                  <surname>Kumar</surname>
+                  <given-names>Vijay</given-names>
+                </name>
+              </contrib>
+              <contrib contrib-type="editor">
+                <name>
+                  <surname>Pham</surname>
+                  <given-names>Hoang</given-names>
+                </name>
+              </contrib>
+            </contrib-group>
+            <pub-date date-type="pub">
+              <string-date>2023-01-01</string-date>
+            </pub-date>
+            <isbn content-type="ppub">978-3-031-05346-7</isbn>
+            <isbn content-type="epub">978-3-031-05347-4</isbn>
+            <publisher>
+              <publisher-name>Springer International Publishing</publisher-name>
+            </publisher>
+            <permissions>
+              <copyright-statement content-type="compact">© The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Switzerland AG 2023</copyright-statement>
+            </permissions>
+            <self-uri specific-use="web" content-type="html">http://dx.doi.org/10.1007/978-3-031-05347-4</self-uri>
+            <custom-meta-group>
+              <custom-meta>
+                <meta-name>book-product-type</meta-name>
+                <meta-value>Monograph</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-primary</meta-name>
+                <meta-value>Mathematics</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-secondary</meta-name>
+                <meta-value>Mathematical Modeling and Industrial Mathematics</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-secondary</meta-name>
+                <meta-value>Risk Management</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-secondary</meta-name>
+                <meta-value>Engineering Economics, Organization, Logistics, Marketing</meta-value>
+              </custom-meta>
+            </custom-meta-group>
+          </book-meta>
+          <book-part book-part-type="chapter">
+            <book-part-meta>
+              <book-part-id book-part-id-type="doi">10.1007/978-3-031-05347-4_8</book-part-id>
+              <title-group>
+                <title>An Efficient Regression Test Cases Selection &amp; Optimization Using Mayfly Optimization Algorithm</title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Singh Verma</surname>
+                    <given-names>Abhishek</given-names>
+                  </name>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Choudhary</surname>
+                    <given-names>Ankur</given-names>
+                  </name>
+                  <address>
+                    <email>ankur.tomer@gmail.com</email>
+                  </address>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Tiwari</surname>
+                    <given-names>Shailesh</given-names>
+                  </name>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Unhelkar</surname>
+                    <given-names>Bhuvan</given-names>
+                  </name>
+                </contrib>
+              </contrib-group>
+              <pub-date date-type="pub" publication-format="electronic">
+                <day>09</day>
+                <month>09</month>
+                <year>2022</year>
+              </pub-date>
+              <fpage>119</fpage>
+              <lpage>135</lpage>
+              <self-uri specific-use="web" content-type="html">http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-05347-4_8</self-uri>
+              <self-uri specific-use="web" content-type="pdf">http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-031-05347-4_8</self-uri>
+              <abstract xml:lang="en" id="Abs1">
+                <title>Abstract</title>
+                <p id="Par1">Testing has been an inevitable activity in the software development life cycle. In the current scenario, software development has become evolutionary in nature where software is released in cycles, each cycle fulfilling the requirements of the customer on a priority basis. This evolutionary development of software also demands high maintenance in the form of retesting. This re-testing is called regression testing and the literature reveals that it is a proven N-P hard problem that attracts the application of approximation algorithms such as meta-heuristics. In this paper, Mayfly Optimization Algorithm has been adopted to solve the regression test case selection problem to minimize the maintenance cost. The aim is to optimize the number of test cases to re-execute to reduce the execution time and cost. The performance of the adopted approach is further compared with state-of-the-art approaches with the help of statistical tests. The shows that the adopted approach performs well in comparison to state of art approaches.</p>
+              </abstract>
+              <kwd-group xml:lang="en">
+                <title>Keywords</title>
+                <kwd>Software testing</kwd>
+                <kwd>Mayfly optimization algorithm</kwd>
+                <kwd>SIR</kwd>
+                <kwd>MetaHeuristics</kwd>
+                <kwd>Regression test case selection</kwd>
+              </kwd-group>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>chapter-type</meta-name>
+                  <meta-value>OriginalPaper</meta-value>
+                </custom-meta>
+                <custom-meta>
+                  <meta-name>open-access</meta-name>
+                  <meta-value>false</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </book-part-meta>
+          </book-part>
+        </book-part-wrapper>
+        <book-part-wrapper dtd-version="2.0" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <book-meta>
+            <book-id book-id-type="doi">10.1007/978-3-031-05347-4</book-id>
+            <book-title-group>
+              <book-title>Predictive Analytics in System Reliability</book-title>
+            </book-title-group>
+            <contrib-group content-type="book editors">
+              <contrib contrib-type="editor">
+                <name>
+                  <surname>Kumar</surname>
+                  <given-names>Vijay</given-names>
+                </name>
+              </contrib>
+              <contrib contrib-type="editor">
+                <name>
+                  <surname>Pham</surname>
+                  <given-names>Hoang</given-names>
+                </name>
+              </contrib>
+            </contrib-group>
+            <pub-date date-type="pub">
+              <string-date>2023-01-01</string-date>
+            </pub-date>
+            <isbn content-type="ppub">978-3-031-05346-7</isbn>
+            <isbn content-type="epub">978-3-031-05347-4</isbn>
+            <publisher>
+              <publisher-name>Springer International Publishing</publisher-name>
+            </publisher>
+            <permissions>
+              <copyright-statement content-type="compact">© The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Switzerland AG 2023</copyright-statement>
+            </permissions>
+            <self-uri specific-use="web" content-type="html">http://dx.doi.org/10.1007/978-3-031-05347-4</self-uri>
+            <custom-meta-group>
+              <custom-meta>
+                <meta-name>book-product-type</meta-name>
+                <meta-value>Monograph</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-primary</meta-name>
+                <meta-value>Mathematics</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-secondary</meta-name>
+                <meta-value>Mathematical Modeling and Industrial Mathematics</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-secondary</meta-name>
+                <meta-value>Risk Management</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-secondary</meta-name>
+                <meta-value>Engineering Economics, Organization, Logistics, Marketing</meta-value>
+              </custom-meta>
+            </custom-meta-group>
+          </book-meta>
+          <book-part book-part-type="chapter">
+            <book-part-meta>
+              <book-part-id book-part-id-type="doi">10.1007/978-3-031-05347-4_5</book-part-id>
+              <title-group>
+                <title>SDE Based SRGM Considering Irregular Fluctuation in Fault Introduction Rate</title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Deepika</surname>
+                  </name>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Anand</surname>
+                    <given-names>Adarsh</given-names>
+                  </name>
+                  <address>
+                    <email>adarsh.anand86@gmail.com</email>
+                  </address>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Inoue</surname>
+                    <given-names>Shinji</given-names>
+                  </name>
+                  <address>
+                    <email>ino@kansai-u.ac.jp</email>
+                  </address>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Johri</surname>
+                    <given-names>Prashant</given-names>
+                  </name>
+                </contrib>
+              </contrib-group>
+              <pub-date date-type="pub" publication-format="electronic">
+                <day>09</day>
+                <month>09</month>
+                <year>2022</year>
+              </pub-date>
+              <fpage>67</fpage>
+              <lpage>80</lpage>
+              <self-uri specific-use="web" content-type="html">http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-05347-4_5</self-uri>
+              <self-uri specific-use="web" content-type="pdf">http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-031-05347-4_5</self-uri>
+              <abstract xml:lang="en" id="Abs1">
+                <title>Abstract</title>
+                <p id="Par1">Software debugging is complicated and can be considered as stochastic in nature. During fault removal, debuggers at-times introduce new faults. Thereafter, the fault introduction process can be said to be non-linear in nature. In this study, we have proposed a software reliability growth model considering the irregular fluctuation of fault introduction rate over time with non-constant fault detection rate. We assume that fault introduction changes non-linearly over time and the fault introduction rate fluctuates irregularly. Ito’s process is used for solving the differential equation to find the analytical solution. The model is fitted on two real world data sets from two open-source project: Mozilla and Gnome. The experimental findings show that present model exhibit estimation result and having strong prediction skill.</p>
+              </abstract>
+              <kwd-group xml:lang="en">
+                <title>Keywords</title>
+                <kwd>Brownian motion</kwd>
+                <kwd>Irregular fluctuation</kwd>
+                <kwd>Ito’s integral</kwd>
+                <kwd>Fault removal</kwd>
+                <kwd>Statistical analytical software (SAS)</kwd>
+                <kwd>Stochastic differential equation (SDE)</kwd>
+                <kwd>Wiener process</kwd>
+              </kwd-group>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>chapter-type</meta-name>
+                  <meta-value>OriginalPaper</meta-value>
+                </custom-meta>
+                <custom-meta>
+                  <meta-name>open-access</meta-name>
+                  <meta-value>false</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </book-part-meta>
+          </book-part>
+        </book-part-wrapper>
+        <book-part-wrapper dtd-version="2.0" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <book-meta>
+            <book-id book-id-type="doi">10.1007/978-3-031-05347-4</book-id>
+            <book-title-group>
+              <book-title>Predictive Analytics in System Reliability</book-title>
+            </book-title-group>
+            <contrib-group content-type="book editors">
+              <contrib contrib-type="editor">
+                <name>
+                  <surname>Kumar</surname>
+                  <given-names>Vijay</given-names>
+                </name>
+              </contrib>
+              <contrib contrib-type="editor">
+                <name>
+                  <surname>Pham</surname>
+                  <given-names>Hoang</given-names>
+                </name>
+              </contrib>
+            </contrib-group>
+            <pub-date date-type="pub">
+              <string-date>2023-01-01</string-date>
+            </pub-date>
+            <isbn content-type="ppub">978-3-031-05346-7</isbn>
+            <isbn content-type="epub">978-3-031-05347-4</isbn>
+            <publisher>
+              <publisher-name>Springer International Publishing</publisher-name>
+            </publisher>
+            <permissions>
+              <copyright-statement content-type="compact">© The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Switzerland AG 2023</copyright-statement>
+            </permissions>
+            <self-uri specific-use="web" content-type="html">http://dx.doi.org/10.1007/978-3-031-05347-4</self-uri>
+            <custom-meta-group>
+              <custom-meta>
+                <meta-name>book-product-type</meta-name>
+                <meta-value>Monograph</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-primary</meta-name>
+                <meta-value>Mathematics</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-secondary</meta-name>
+                <meta-value>Mathematical Modeling and Industrial Mathematics</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-secondary</meta-name>
+                <meta-value>Risk Management</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-secondary</meta-name>
+                <meta-value>Engineering Economics, Organization, Logistics, Marketing</meta-value>
+              </custom-meta>
+            </custom-meta-group>
+          </book-meta>
+          <book-part book-part-type="chapter">
+            <book-part-meta>
+              <book-part-id book-part-id-type="doi">10.1007/978-3-031-05347-4_2</book-part-id>
+              <title-group>
+                <title>System Reliability Models with Random Shocks and Uncertainty: A State-of-the-Art Review</title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Hu</surname>
+                    <given-names>Yuhan</given-names>
+                  </name>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Zhu</surname>
+                    <given-names>Mengmeng</given-names>
+                  </name>
+                  <address>
+                    <email>mzhu7@ncsu.edu</email>
+                  </address>
+                </contrib>
+              </contrib-group>
+              <pub-date date-type="pub" publication-format="electronic">
+                <day>09</day>
+                <month>09</month>
+                <year>2022</year>
+              </pub-date>
+              <fpage>19</fpage>
+              <lpage>38</lpage>
+              <self-uri specific-use="web" content-type="html">http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-05347-4_2</self-uri>
+              <self-uri specific-use="web" content-type="pdf">http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-031-05347-4_2</self-uri>
+              <abstract xml:lang="en" id="Abs1">
+                <title>Abstract</title>
+                <p id="Par1">
+                  Reliability evaluation is an important task in safety–critical applications. The failure of a system is generally caused by random shocks resulting from adverse events or internal degradations. This chapter thus mainly focuses on the review of system reliability models with random shocks and the uncertainty of the degradation process. In the category of system reliability models with random shocks, we review system reliability models based on five random shock models that are commonly used in Reliability Engineering, cumulative shock model, extreme shock model, run shock model, 
+                  <inline-formula id="IEq1">
+                    <alternatives>
+                      <mml:math id="IEq1_Math">
+                        <mml:mi>δ</mml:mi>
+                      </mml:math>
+                      <tex-math id="IEq1_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\delta$$\end{document}</tex-math>
+                      <inline-graphic xlink:href="518416_1_En_2_Chapter_IEq1.gif"/>
+                    </alternatives>
+                  </inline-formula>
+                  -shock model, and mixed shock model. In addition, three sources of variabilities, commonly discussed in the literature, can result in the uncertainty of the degradation process, which are temporal variability in the degradation process, unit-to-unit variability, and measurement error caused by imperfect instruments or imperfect inspection. In the category of system reliability model with uncertainty, we review system reliability models using stochastic degradation models in terms of three stochastic processes, Wiener process, gamma process, and inverse Gaussian process.
+                </p>
+              </abstract>
+              <kwd-group xml:lang="en">
+                <title>Keywords</title>
+                <kwd>Reliability model</kwd>
+                <kwd>Random shocks</kwd>
+                <kwd>Uncertainty</kwd>
+                <kwd>Stochastic process</kwd>
+              </kwd-group>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>chapter-type</meta-name>
+                  <meta-value>OriginalPaper</meta-value>
+                </custom-meta>
+                <custom-meta>
+                  <meta-name>open-access</meta-name>
+                  <meta-value>false</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </book-part-meta>
+          </book-part>
+        </book-part-wrapper>
+        <book-part-wrapper dtd-version="2.0" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <book-meta>
+            <book-id book-id-type="doi">10.1007/978-3-031-05347-4</book-id>
+            <book-title-group>
+              <book-title>Predictive Analytics in System Reliability</book-title>
+            </book-title-group>
+            <contrib-group content-type="book editors">
+              <contrib contrib-type="editor">
+                <name>
+                  <surname>Kumar</surname>
+                  <given-names>Vijay</given-names>
+                </name>
+              </contrib>
+              <contrib contrib-type="editor">
+                <name>
+                  <surname>Pham</surname>
+                  <given-names>Hoang</given-names>
+                </name>
+              </contrib>
+            </contrib-group>
+            <pub-date date-type="pub">
+              <string-date>2023-01-01</string-date>
+            </pub-date>
+            <isbn content-type="ppub">978-3-031-05346-7</isbn>
+            <isbn content-type="epub">978-3-031-05347-4</isbn>
+            <publisher>
+              <publisher-name>Springer International Publishing</publisher-name>
+            </publisher>
+            <permissions>
+              <copyright-statement content-type="compact">© The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Switzerland AG 2023</copyright-statement>
+            </permissions>
+            <self-uri specific-use="web" content-type="html">http://dx.doi.org/10.1007/978-3-031-05347-4</self-uri>
+            <custom-meta-group>
+              <custom-meta>
+                <meta-name>book-product-type</meta-name>
+                <meta-value>Monograph</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-primary</meta-name>
+                <meta-value>Mathematics</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-secondary</meta-name>
+                <meta-value>Mathematical Modeling and Industrial Mathematics</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-secondary</meta-name>
+                <meta-value>Risk Management</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-secondary</meta-name>
+                <meta-value>Engineering Economics, Organization, Logistics, Marketing</meta-value>
+              </custom-meta>
+            </custom-meta-group>
+          </book-meta>
+          <book-part book-part-type="chapter">
+            <book-part-meta>
+              <book-part-id book-part-id-type="doi">10.1007/978-3-031-05347-4_7</book-part-id>
+              <title-group>
+                <title>Reliability Assessment and Profit Analysis of Automated Teller Machine System Under Copular Repair Policy</title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Yusuf</surname>
+                    <given-names>Ibrahim</given-names>
+                  </name>
+                  <address>
+                    <email>iyusuf.mth@buk.edu.ng</email>
+                  </address>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Sanusi</surname>
+                    <given-names>Abdullahi</given-names>
+                  </name>
+                  <address>
+                    <email>asanusi.sce@buk.edu.ng</email>
+                  </address>
+                </contrib>
+              </contrib-group>
+              <pub-date date-type="pub" publication-format="electronic">
+                <day>09</day>
+                <month>09</month>
+                <year>2022</year>
+              </pub-date>
+              <fpage>97</fpage>
+              <lpage>117</lpage>
+              <self-uri specific-use="web" content-type="html">http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-05347-4_7</self-uri>
+              <self-uri specific-use="web" content-type="pdf">http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-031-05347-4_7</self-uri>
+              <abstract xml:lang="en" id="Abs1">
+                <title>Abstract</title>
+                <p id="Par1">The evaluation of reliability is a critical factor that ensures reliable system operation, improving quality of product, and cutting production losses. The structure for analyzing Automated Teller Machines (ATMs) failures is presented in this chapter, which also allows for the identification of the most appropriate methods for removing them. It is also essential to have sufficient information on failure and repair in order to assess system availability and reliability and calculate exact performance rates. The model under consideration is made up of three distinct subsystems, namely subsystems A, B, and C. All the components designed for this system have access to exponential failure and repair. Failure times are thought to have an exponential distribution, whereas repair times are thought to have a General distribution and Gumbel–Hougaard family Copula. The transition diagram’s set of differential equations was solved using regenerative point techniques and Laplace transforms. For various assumed parameter values, different reliability characteristics such as availability, reliability, MTTF, sensitivity, and cost benefit are derived and validated to determine how the model under consideration affects them. A number of cases are used to demonstrate the analysis in depth. Tables are used to present computed results and while figures depicts the computed results. According to the computed results, Copula is a superior repair technique for improving the efficiency of repairable systems. Furthermore, the findings of the study are crucial for the banking sector’s development.</p>
+              </abstract>
+              <kwd-group xml:lang="en">
+                <title>Keywords</title>
+                <kwd>Automated teller machine (ATM)</kwd>
+                <kwd>Availability</kwd>
+                <kwd>Reliability</kwd>
+                <kwd>Profit</kwd>
+                <kwd>Copula repair</kwd>
+                <kwd>General repair</kwd>
+              </kwd-group>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>chapter-type</meta-name>
+                  <meta-value>OriginalPaper</meta-value>
+                </custom-meta>
+                <custom-meta>
+                  <meta-name>open-access</meta-name>
+                  <meta-value>false</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </book-part-meta>
+          </book-part>
+        </book-part-wrapper>
+        <book-part-wrapper dtd-version="2.0" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <book-meta>
+            <book-id book-id-type="doi">10.1007/978-3-031-05347-4</book-id>
+            <book-title-group>
+              <book-title>Predictive Analytics in System Reliability</book-title>
+            </book-title-group>
+            <contrib-group content-type="book editors">
+              <contrib contrib-type="editor">
+                <name>
+                  <surname>Kumar</surname>
+                  <given-names>Vijay</given-names>
+                </name>
+              </contrib>
+              <contrib contrib-type="editor">
+                <name>
+                  <surname>Pham</surname>
+                  <given-names>Hoang</given-names>
+                </name>
+              </contrib>
+            </contrib-group>
+            <pub-date date-type="pub">
+              <string-date>2023-01-01</string-date>
+            </pub-date>
+            <isbn content-type="ppub">978-3-031-05346-7</isbn>
+            <isbn content-type="epub">978-3-031-05347-4</isbn>
+            <publisher>
+              <publisher-name>Springer International Publishing</publisher-name>
+            </publisher>
+            <permissions>
+              <copyright-statement content-type="compact">© The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Switzerland AG 2023</copyright-statement>
+            </permissions>
+            <self-uri specific-use="web" content-type="html">http://dx.doi.org/10.1007/978-3-031-05347-4</self-uri>
+            <custom-meta-group>
+              <custom-meta>
+                <meta-name>book-product-type</meta-name>
+                <meta-value>Monograph</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-primary</meta-name>
+                <meta-value>Mathematics</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-secondary</meta-name>
+                <meta-value>Mathematical Modeling and Industrial Mathematics</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-secondary</meta-name>
+                <meta-value>Risk Management</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-secondary</meta-name>
+                <meta-value>Engineering Economics, Organization, Logistics, Marketing</meta-value>
+              </custom-meta>
+            </custom-meta-group>
+          </book-meta>
+          <book-part book-part-type="chapter">
+            <book-part-meta>
+              <book-part-id book-part-id-type="doi">10.1007/978-3-031-05347-4_4</book-part-id>
+              <title-group>
+                <title>Investigating Bad Smells with Feature Selection and Machine Learning Approaches</title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Gupta</surname>
+                    <given-names>Aakanshi</given-names>
+                  </name>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Gandhi</surname>
+                    <given-names>Rashmi</given-names>
+                  </name>
+                  <address>
+                    <email>rashmibehal@gmail.com</email>
+                  </address>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Kumar</surname>
+                    <given-names>Vijay</given-names>
+                  </name>
+                </contrib>
+              </contrib-group>
+              <pub-date date-type="pub" publication-format="electronic">
+                <day>09</day>
+                <month>09</month>
+                <year>2022</year>
+              </pub-date>
+              <fpage>53</fpage>
+              <lpage>65</lpage>
+              <self-uri specific-use="web" content-type="html">http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-05347-4_4</self-uri>
+              <self-uri specific-use="web" content-type="pdf">http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-031-05347-4_4</self-uri>
+              <abstract xml:lang="en" id="Abs1">
+                <title>Abstract</title>
+                <p id="Par1">Code Smell is a piece of code that is designed and implemented poorly and it gives adverse effect on the software quality and maintenance. Now, a day’s machine learning based techniques have been extensively used towards code smell research. The main objective of this research is to optimise the features of Android code smells in terms of software metrics using feature selection technique based on Correlation on 2896 instances of open-source projects which are extracted from GitHub. Further, we have examined the performance measures like accuracy, precision, F-measure and execution time etc. with the reduced features data set of Android code smells. This paper also discussed about implementation of correlation-based feature selection algorithm to reduce the features of code smells. Then, the data has been analyzed with 4 machine learning algorithms that are Logistic Regression, Stochastic Gradient Descent (SGD), Simple Logistic and Sequential minimal optimization (SMO). The performance metrics for the above-mentioned machine learning algorithms with and without performing the feature selection have been compared. The computed outcome shows that the best accuracy and lesser execution time for all 3 considered Android code smells have been achieved using Logistic Regression algorithm. After feature selection the accuracy has increased up to 16%, 25% and 4.7% for NLMR, MIM and DTWC code smells respectively. Meanwhile, the other performance measures have also been increased.</p>
+              </abstract>
+              <kwd-group xml:lang="en">
+                <title>Keywords</title>
+                <kwd>Feature selection</kwd>
+                <kwd>Android code smell</kwd>
+                <kwd>Logistic regression</kwd>
+                <kwd>GITHUB</kwd>
+              </kwd-group>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>chapter-type</meta-name>
+                  <meta-value>OriginalPaper</meta-value>
+                </custom-meta>
+                <custom-meta>
+                  <meta-name>open-access</meta-name>
+                  <meta-value>false</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </book-part-meta>
+          </book-part>
+        </book-part-wrapper>
+        <book-part-wrapper dtd-version="2.0" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <book-meta>
+            <book-id book-id-type="doi">10.1007/978-3-031-05347-4</book-id>
+            <book-title-group>
+              <book-title>Predictive Analytics in System Reliability</book-title>
+            </book-title-group>
+            <contrib-group content-type="book editors">
+              <contrib contrib-type="editor">
+                <name>
+                  <surname>Kumar</surname>
+                  <given-names>Vijay</given-names>
+                </name>
+              </contrib>
+              <contrib contrib-type="editor">
+                <name>
+                  <surname>Pham</surname>
+                  <given-names>Hoang</given-names>
+                </name>
+              </contrib>
+            </contrib-group>
+            <pub-date date-type="pub">
+              <string-date>2023-01-01</string-date>
+            </pub-date>
+            <isbn content-type="ppub">978-3-031-05346-7</isbn>
+            <isbn content-type="epub">978-3-031-05347-4</isbn>
+            <publisher>
+              <publisher-name>Springer International Publishing</publisher-name>
+            </publisher>
+            <permissions>
+              <copyright-statement content-type="compact">© The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Switzerland AG 2023</copyright-statement>
+            </permissions>
+            <self-uri specific-use="web" content-type="html">http://dx.doi.org/10.1007/978-3-031-05347-4</self-uri>
+            <custom-meta-group>
+              <custom-meta>
+                <meta-name>book-product-type</meta-name>
+                <meta-value>Monograph</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-primary</meta-name>
+                <meta-value>Mathematics</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-secondary</meta-name>
+                <meta-value>Mathematical Modeling and Industrial Mathematics</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-secondary</meta-name>
+                <meta-value>Risk Management</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-secondary</meta-name>
+                <meta-value>Engineering Economics, Organization, Logistics, Marketing</meta-value>
+              </custom-meta>
+            </custom-meta-group>
+          </book-meta>
+          <book-part book-part-type="chapter">
+            <book-part-meta>
+              <book-part-id book-part-id-type="doi">10.1007/978-3-031-05347-4_10</book-part-id>
+              <title-group>
+                <title>Computation Signature Reliability of Computer Numerical Control System Using Universal Generating Function</title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Pandey</surname>
+                    <given-names>Tripty</given-names>
+                  </name>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Batra</surname>
+                    <given-names>Arpita</given-names>
+                  </name>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Chaudhary</surname>
+                    <given-names>Mansi</given-names>
+                  </name>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Ranakoti</surname>
+                    <given-names>Anjali</given-names>
+                  </name>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Kumar</surname>
+                    <given-names>Akshay</given-names>
+                  </name>
+                  <address>
+                    <email>akshaykr1001@gmail.com</email>
+                  </address>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Ram</surname>
+                    <given-names>Mangey</given-names>
+                  </name>
+                </contrib>
+              </contrib-group>
+              <pub-date date-type="pub" publication-format="electronic">
+                <day>09</day>
+                <month>09</month>
+                <year>2022</year>
+              </pub-date>
+              <fpage>149</fpage>
+              <lpage>158</lpage>
+              <self-uri specific-use="web" content-type="html">http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-05347-4_10</self-uri>
+              <self-uri specific-use="web" content-type="pdf">http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-031-05347-4_10</self-uri>
+              <abstract xml:lang="en" id="Abs1">
+                <title>Abstract</title>
+                <p id="Par1">The aim of this research is to deal with a complex manufacturing system using the Computer Numerical Control as the bottom case manufacturing system, where the arrangement of various complex sub-systems is in series, parallel or in both the configurations. The system reliability with several other factors like signature, tail signature, expected time as well as expected cost and sensitivity have been obtained with the assistant of universal generating function technique. The purpose of this chapter is to comparison of the systems on the basis of signature and its measures Further, a numerical example demonstrates the proposed system and technique for a better understanding.</p>
+              </abstract>
+              <kwd-group xml:lang="en">
+                <title>Keywords</title>
+                <kwd>Signature</kwd>
+                <kwd>Reliability function</kwd>
+                <kwd>Computer numerical control</kwd>
+                <kwd>Tail signature</kwd>
+                <kwd>Expected time</kwd>
+                <kwd>Universal generating function</kwd>
+              </kwd-group>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>chapter-type</meta-name>
+                  <meta-value>OriginalPaper</meta-value>
+                </custom-meta>
+                <custom-meta>
+                  <meta-name>open-access</meta-name>
+                  <meta-value>false</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </book-part-meta>
+          </book-part>
+        </book-part-wrapper>
+        <book-part-wrapper dtd-version="2.0" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <book-meta>
+            <book-id book-id-type="doi">10.1007/978-3-031-05347-4</book-id>
+            <book-title-group>
+              <book-title>Predictive Analytics in System Reliability</book-title>
+            </book-title-group>
+            <contrib-group content-type="book editors">
+              <contrib contrib-type="editor">
+                <name>
+                  <surname>Kumar</surname>
+                  <given-names>Vijay</given-names>
+                </name>
+              </contrib>
+              <contrib contrib-type="editor">
+                <name>
+                  <surname>Pham</surname>
+                  <given-names>Hoang</given-names>
+                </name>
+              </contrib>
+            </contrib-group>
+            <pub-date date-type="pub">
+              <string-date>2023-01-01</string-date>
+            </pub-date>
+            <isbn content-type="ppub">978-3-031-05346-7</isbn>
+            <isbn content-type="epub">978-3-031-05347-4</isbn>
+            <publisher>
+              <publisher-name>Springer International Publishing</publisher-name>
+            </publisher>
+            <permissions>
+              <copyright-statement content-type="compact">© The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Switzerland AG 2023</copyright-statement>
+            </permissions>
+            <self-uri specific-use="web" content-type="html">http://dx.doi.org/10.1007/978-3-031-05347-4</self-uri>
+            <custom-meta-group>
+              <custom-meta>
+                <meta-name>book-product-type</meta-name>
+                <meta-value>Monograph</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-primary</meta-name>
+                <meta-value>Mathematics</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-secondary</meta-name>
+                <meta-value>Mathematical Modeling and Industrial Mathematics</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-secondary</meta-name>
+                <meta-value>Risk Management</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-secondary</meta-name>
+                <meta-value>Engineering Economics, Organization, Logistics, Marketing</meta-value>
+              </custom-meta>
+            </custom-meta-group>
+          </book-meta>
+          <book-part book-part-type="chapter">
+            <book-part-meta>
+              <book-part-id book-part-id-type="doi">10.1007/978-3-031-05347-4_1</book-part-id>
+              <title-group>
+                <title>Deep Learning Approach Based on Fault Correction Time for Reliability Assessment of Cloud and Edge Open Source Software</title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Sone</surname>
+                    <given-names>Hironobu</given-names>
+                  </name>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Miyamoto</surname>
+                    <given-names>Shoichiro</given-names>
+                  </name>
+                  <address>
+                    <email>i083fe@yamaguchi-u.ac.jp</email>
+                  </address>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Kashihara</surname>
+                    <given-names>Yukinobu</given-names>
+                  </name>
+                  <address>
+                    <email>g2181424@tcu.ac.jp</email>
+                  </address>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Tamura</surname>
+                    <given-names>Yoshinobu</given-names>
+                  </name>
+                  <address>
+                    <email>tamuray@yamaguchi-u.ac.jp</email>
+                  </address>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Yamada</surname>
+                    <given-names>Shigeru</given-names>
+                  </name>
+                  <address>
+                    <email>yamada@tottori-u.ac.jp</email>
+                  </address>
+                </contrib>
+              </contrib-group>
+              <pub-date date-type="pub" publication-format="electronic">
+                <day>09</day>
+                <month>09</month>
+                <year>2022</year>
+              </pub-date>
+              <fpage>1</fpage>
+              <lpage>17</lpage>
+              <self-uri specific-use="web" content-type="html">http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-05347-4_1</self-uri>
+              <self-uri specific-use="web" content-type="pdf">http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-031-05347-4_1</self-uri>
+              <abstract xml:lang="en" id="Abs1">
+                <title>Abstract</title>
+                <p id="Par1">We discuss a method of machine learning in order to consider the characteristics reliability trends of edge open source project. Then, we focus on the method based on deep learning analysis. Thereby, the proposed method will be able to extract the characteristics data in order to comprehend the trend of fault big data recorded on the bug tracking system in edge open source project. Moreover, several numerical examples are shown by using actual fault big data in the edge open source project. Then, the illustrative results based on the deep learning are shown by using our methods discussed in this chapter. We discuss that our method by deep learning and prediction model are useful to assess the quality and reliability of the edge open source project.</p>
+              </abstract>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>chapter-type</meta-name>
+                  <meta-value>OriginalPaper</meta-value>
+                </custom-meta>
+                <custom-meta>
+                  <meta-name>open-access</meta-name>
+                  <meta-value>false</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </book-part-meta>
+          </book-part>
+        </book-part-wrapper>
+        <book-part-wrapper dtd-version="2.0" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <book-meta>
+            <book-id book-id-type="doi">10.1007/978-3-031-05347-4</book-id>
+            <book-title-group>
+              <book-title>Predictive Analytics in System Reliability</book-title>
+            </book-title-group>
+            <contrib-group content-type="book editors">
+              <contrib contrib-type="editor">
+                <name>
+                  <surname>Kumar</surname>
+                  <given-names>Vijay</given-names>
+                </name>
+              </contrib>
+              <contrib contrib-type="editor">
+                <name>
+                  <surname>Pham</surname>
+                  <given-names>Hoang</given-names>
+                </name>
+              </contrib>
+            </contrib-group>
+            <pub-date date-type="pub">
+              <string-date>2023-01-01</string-date>
+            </pub-date>
+            <isbn content-type="ppub">978-3-031-05346-7</isbn>
+            <isbn content-type="epub">978-3-031-05347-4</isbn>
+            <publisher>
+              <publisher-name>Springer International Publishing</publisher-name>
+            </publisher>
+            <permissions>
+              <copyright-statement content-type="compact">© The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Switzerland AG 2023</copyright-statement>
+            </permissions>
+            <self-uri specific-use="web" content-type="html">http://dx.doi.org/10.1007/978-3-031-05347-4</self-uri>
+            <custom-meta-group>
+              <custom-meta>
+                <meta-name>book-product-type</meta-name>
+                <meta-value>Monograph</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-primary</meta-name>
+                <meta-value>Mathematics</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-secondary</meta-name>
+                <meta-value>Mathematical Modeling and Industrial Mathematics</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-secondary</meta-name>
+                <meta-value>Risk Management</meta-value>
+              </custom-meta>
+              <custom-meta>
+                <meta-name>book-subject-secondary</meta-name>
+                <meta-value>Engineering Economics, Organization, Logistics, Marketing</meta-value>
+              </custom-meta>
+            </custom-meta-group>
+          </book-meta>
+          <book-part book-part-type="chapter">
+            <book-part-meta>
+              <book-part-id book-part-id-type="doi">10.1007/978-3-031-05347-4_11</book-part-id>
+              <title-group>
+                <title>Evaluate and Measure Agile Software Efficiency by the Integrated Strategy of Fuzzy MOORA and AHP</title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Srivastava</surname>
+                    <given-names>Abhishek</given-names>
+                  </name>
+                  <address>
+                    <email>abhishek.sri13@gmail.com</email>
+                  </address>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Kapur</surname>
+                    <given-names>P. K.</given-names>
+                  </name>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Rawat</surname>
+                    <given-names>Alakkshendra</given-names>
+                  </name>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Mittal</surname>
+                    <given-names>Aditya</given-names>
+                  </name>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Nagaraju</surname>
+                    <given-names>Vidhyashree</given-names>
+                  </name>
+                </contrib>
+              </contrib-group>
+              <pub-date date-type="pub" publication-format="electronic">
+                <day>09</day>
+                <month>09</month>
+                <year>2022</year>
+              </pub-date>
+              <fpage>159</fpage>
+              <lpage>173</lpage>
+              <self-uri specific-use="web" content-type="html">http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-05347-4_11</self-uri>
+              <self-uri specific-use="web" content-type="pdf">http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-031-05347-4_11</self-uri>
+              <abstract xml:lang="en" id="Abs1">
+                <title>Abstract</title>
+                <p id="Par1">Now a day’s every business stakeholder wants that they will get best output from their software development teams. There are many software developing methodologies present in the market right now and every methodology has its own advantages and disadvantages, even Agile has certain disadvantages, but agile always try to give the best output product to their client and always welcomes the spontaneous market changes, which most of the software developing methodologies are unable to deliver. Now the question arises that how to measure the efficiency of this software development or testing methodology. In this paper, we plan to use an approach or propose an integrated strategy of Fuzzified Multi Objective Optimization on the bases of Ratio Analysis (MOORA) and Analytic Hierarchy Process (AHP) to determine the efficiency of Agile software. In this we first extracted some important factors used in agile software development through correlational research and with the help of agile certified professionals, then we compared those factors with help of the above-mentioned tools Fuzzy based MOORA and AHP. The methodology utilized in this certain research study article acts as very vital toolkit for the researchers or professionals who want to measure and evaluate the efficiency of such software development technology.
+</p>
+              </abstract>
+              <kwd-group xml:lang="en">
+                <title>Keywords</title>
+                <kwd>Agile methodologies</kwd>
+                <kwd>Fuzzy MOORA</kwd>
+                <kwd>AHP</kwd>
+                <kwd>Efficiency</kwd>
+              </kwd-group>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>chapter-type</meta-name>
+                  <meta-value>OriginalPaper</meta-value>
+                </custom-meta>
+                <custom-meta>
+                  <meta-name>open-access</meta-name>
+                  <meta-value>false</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </book-part-meta>
+          </book-part>
+        </book-part-wrapper>
+      </records>
+    </response>
