@@ -120,14 +120,14 @@ Release 4 reports.
 
 ### Equivalence between R4 and R5 Reports
 
-| Release 4 Report | Release 5 Report | Metric Type (R5) |
+| Release 4 | Release 5 | Metric Type (R5) |
 | --- | --- | --- |
-| Journal Report 1 | Journal Usage by Access Type TR_J3 | Total_Item_Requests |
-| Journal Report 1 Gold OA | Journal Usage by Access Type TR_J3 | Total_Item_Requests |
-| Journal Report 2 | Journal Access Denied TR_J2 | No_License |
+| Journal Report 1 (Full-text article requests) | Journal Usage by Access Type TR_J3 | Total_Item_Requests |
+| Journal Report 1 GOA (Gold OA Full-text article requests) | Journal Usage by Access Type TR_J3 | Total_Item_Requests |
+| Journal Report 2 (Access Denied)| Journal Access Denied TR_J2 | No_License |
 | Journal Report 5 | Title Master Report TR | Total_Item_Requests |
-| Database Report 1 | Database Search and Item Usage DR_D1 | Regular Searches (R4) and Searches_Regular |
-| Database Report 2 | Database Access Denied DR_D2 | Access Denied: concurrent/simultaneous user license limit exceeded (R4)/Limit_Exceeded (R5) and Access denied: content item not licenced / No_License (R5) |
+| Database Report 1 (Total searches, result clicks, and record views) | Database Search and Item Usage DR_D1 | Regular Searches (R4) and Searches_Regular |
+| Database Report 2 (Access Denied) | Database Access Denied DR_D2 | Access Denied: concurrent/simultaneous user license limit exceeded (R4)/Limit_Exceeded (R5) and Access denied: content item not licenced / No_License (R5) |
 | Platform Report | Platform Master Report PR | Searches-federated and automated (R4) and Searches_Automated and Searches_Federated |
 | Book Report 1 (Title requests)  | Book Requests TR_B1 | Unique_Item_Requests |
 | Book Report 2 (Section requests) | Book Request TR_B1 | Total_Item_Requests |
@@ -145,7 +145,7 @@ Please visit their site for more information on the scope of COUNTER
 - [COUNTER reports](https://cop5.projectcounter.org/en/5.0.2/04-reports/index.html#reports)
 
 - [Delivery of COUNTER reports](https://cop5.projectcounter.org/en/5.0.2/05-delivery/index.html#delivery)
-<<<<<<< HEAD
+
 
 
 ## Data Cleaning - How to Format Release 4 and Release 5 reports
