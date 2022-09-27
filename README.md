@@ -83,7 +83,7 @@ Release 4 reports.
 
 | Release 4 | Release 5 | Metric Type (R5) |
 | --- | --- | --- |
-| Journal Report 1 (Full-text article requests) | Journal Usage by Access Type TR_J3 | Total_Item_Requests |
+| Journal Report 1 (Full-text article requests, excluding GOA) | Journal Usage by Access Type TR_J3 | Total_Item_Requests |
 | Journal Report 1 GOA (Gold OA Full-text article requests) | Journal Usage by Access Type TR_J3 | Total_Item_Requests |
 | Journal Report 2 (Access Denied)| Journal Access Denied TR_J2 | No_License |
 | Journal Report 5 | Title Master Report TR | Total_Item_Requests |
@@ -129,8 +129,14 @@ Please visit their site for more information on the scope of COUNTER
 
 ###### Journal Report 1 (R4)
 
-- Notable Columns: Journal (Title) | Publisher | Print ISSN | Reporting Period Total | Reporting Period HTML | Reporting Period PDF | Jan YY to Dec YY
+- Notable Columns: Journal (Title) | Publisher | Print ISSN | Reporting Period Total | Reporting Period HTML | Reporting Period PDF | Jan-YY to Dec-YY
 
 ![jr1](https://github.com/AlaoSUL/COUNTER_Reports/blob/main/Images/Elsevier_j1r4.PNG)
 
-- The first 7 rows are general information which is not pertinent to our analysis so we must skip these rows. Additionally, some reports have a total row which is the sum of all the requests. We will use i
+- The first 7 rows are general information which is not pertinent to our analysis so we must skip these rows. While reading in the Excel files, I used the skip_rows argument to start at Row 8 or index 7 (Python index starts at 0) to get the headers correctly into the first row.
+
+- Additionally, some reports have a total entry as the first row after the headers. I used iloc(), an index-based selection technique to exclude this row since it's not useful in our analysis.
+
+##### Journal Usage by Access Type TR_J3 (R5)
+
+- Notable Columns: Title | Publisher | Print_ISSN | Online_ISSN | Access_Type | Metric Type | Reporting_Period_Total | Jan-YY to Dec-YY
