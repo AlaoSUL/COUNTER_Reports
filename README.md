@@ -131,6 +131,6 @@ Please visit their site for more information on the scope of COUNTER
 
 - Notable Columns: Journal (Title) | Publisher | Print ISSN | Reporting Period Total | Reporting Period HTML | Reporting Period PDF | Jan YY to Dec YY
 
-[jr1](https://github.com/AlaoSUL/COUNTER_Reports/blob/main/Images/Elsevier_j1r4.PNG)
+![jr1](https://github.com/AlaoSUL/COUNTER_Reports/blob/main/Images/Elsevier_j1r4.PNG)
 
 - The first 7 rows are general information which is not pertinent to our analysis so we must skip these rows. Additionally, some reports have a total row which is the sum of all the requests. We will use i
