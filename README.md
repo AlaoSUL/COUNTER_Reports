@@ -124,7 +124,10 @@ Release 4 reports.
 | --- | --- | --- |
 | Journal Report 1 | Journal Usage by Access Type TR_J3 | Total_Item_Requests |
 | Journal Report 1 Gold OA | Journal Usage by Access Type TR_J3 | Total_Item_Requests |
-| Journal Report 2 | Journal Access Denied TR_J2 | No_License
+| Journal Report 2 | Journal Access Denied TR_J2 | No_License |
+| Journal Report 5 | Title Master Report TR | Total_Item_Requests |
+| Database Report 1 | Database Search and Item Usage DR_D1 | Regular Searches (R4) and Searches_Regular |
+| Database Report 2 | Database Access Denied DR_D2 | Access Denied: concurrent/simultaneous user license limit exceeded (R4)/Limit_Exceeded (R5) and Access denied: content item not licenced / No_License (R5)
 
 
 ### Details and Specifications of COUNTER reports
@@ -144,8 +147,3 @@ Please visit their site for more information on the scope of COUNTER
 - Data cleaning is a painstaking, yet most important process of data analysis. Luckily, COUNTER reports provides a consistent report layout. Here are the steps that I took to clean Release 4 and Release reports.
 
 ##### Journal Report 1 R4 -
-
-
-[ElsevierJR1]()
-=======
->>>>>>> bfb05773d3682fda31f970839edeba9519f91835
