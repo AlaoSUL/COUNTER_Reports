@@ -164,4 +164,12 @@ Please visit their site for more information on the scope of COUNTER
 
 - Functools: provides useful features that make it easier to work with high order functions (a function that returns a function or takes another function as an argument ). With these features, you can reuse or extend the utility of your functions or callable object without rewriting them.
 
-##### Journal Report 1 R4 -
+##### Journal Report - Full Text Article Requests
+
+###### Journal Report 1 (R4)
+
+- Notable Columns: Journal (Title) | Publisher | Print ISSN | Reporting Period Total | Reporting Period HTML | Reporting Period PDF | Jan YY to Dec YY
+
+
+
+- The first 7 rows are general information which is not pertinent to our analysis so we must skip these rows. Additionally, some reports have a total row which is the sum of all the requests. We will use i
