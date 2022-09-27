@@ -150,6 +150,18 @@ Please visit their site for more information on the scope of COUNTER
 
 ## Data Cleaning - How to Format Release 4 and Release 5 reports
 
-- Data cleaning is a painstaking, yet most important process of data analysis. Luckily, COUNTER reports provides a consistent report layout. Here are the steps that I took to clean Release 4 and Release reports.
+- Data cleaning is a painstaking, yet most important process of data analysis. Luckily, COUNTER reports provides a consistent report layout. However, there are several nuances among these reports in order to merge/concatenate the R4 and R5 reports. Here are the steps that I took to clean Release 4 and Release reports.
+
+### Where do I get the COUNTER reports?
+
+- We have a technical specialist from the acquisitions department who pull these reports and organizes the Excel files onto a shared Google drive. I can easily find the reports and download them. Shout out to James!
+
+- Unfortunately, R4 reports are deprecated so some publishers will be missing a year or two of stats.
+
+### Modules Used
+
+- Pandas: a fast, powerful, flexible and easy to use open source data analysis and manipulation tool
+
+- Functools: provides useful features that make it easier to work with high order functions (a function that returns a function or takes another function as an argument ). With these features, you can reuse or extend the utility of your functions or callable object without rewriting them.
 
 ##### Journal Report 1 R4 -
