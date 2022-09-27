@@ -8,21 +8,12 @@ Project COUNTER’s mission “COUNTER exists to develop and maintain the standa
 
 COUNTER's standardized usage reports allow libraries to:
 
-<<<<<<< HEAD
 • Compare usage easily across different publisher platforms & vendors and reports/formats are standard
 • Assess user activity, in relationship to their content & improve user experience
 • Inform renewal and new purchasing decisions
 • Justify budget spend to their stakeholders
 • Inform faculty/power-users about the value & use of current library resources
 • Derive “cost-per-use” for content
-=======
-- Compare usage easily across different publisher platforms & vendors and reports/formats are standard
-- Assess user activity, in relationship to their content & improve user experience
-- Inform renewal and new purchasing decisions
-- Justify budget spend to their stakeholders
-- Inform faculty/power-users about the value & use of current library resources
-- Derive “cost-per-use” for content
->>>>>>> bfb05773d3682fda31f970839edeba9519f91835
 
 ### Whom is COUNTER for?
 
@@ -47,7 +38,6 @@ In the manual you will see:
 - the main COUNTER reports and how to use them
 - how to track trends by comparing the correct figures between Release 4 and Release 5 reports
 
-<<<<<<< HEAD
 1. Books: Understanding metrics and standard views
 
 It explains:
@@ -87,15 +77,6 @@ Sessions
 The Database Master Report and its Standard Views
 Comparing between Release 4 and Release 5
 
-### Equivalence between R4 and R5 Reports
-
-| Release 4 Report | Release 5 Report | Metric Type (R5) |
-| --- | --- | --- |
-| Journal Report 1 | Journal Usage by Access Type TR_J3 | Total_Item_Requests |
-| Journal Report 1 Gold OA | Journal Usage by Access Type TR_J3 | Total_Item_Requests |
-| Jounral Report 2 | Journal Access Denied TR_J2 | No_License
-
-=======
 #### Books: Understanding metrics and standard views
 
 It explains:
@@ -118,13 +99,6 @@ It explains:
 - Trend data
 - Open Access usage
 
-#### Comparing Counts between Release 4 and Release 5
-
-- We look at examples of the new Release 5 Standard Views, and compare them to the corresponding
-Release 4 reports.
-- Highlight the new metric types so that you can see how they affect cost-per-use calculations
-- Offer new possibilities for the usage analysis
-
 #### Database reports
 
 It explains:
@@ -135,7 +109,23 @@ It explains:
 - Sessions
 - The Database Master Report and its Standard Views
 - Comparing between Release 4 and Release 5
->>>>>>> bfb05773d3682fda31f970839edeba9519f91835
+
+#### Comparing Counts between Release 4 and Release 5
+
+- We look at examples of the new Release 5 Standard Views, and compare them to the corresponding
+Release 4 reports.
+- Highlight the new metric types so that you can see how they affect cost-per-use calculations
+- Offer new possibilities for the usage analysis
+
+
+### Equivalence between R4 and R5 Reports
+
+| Release 4 Report | Release 5 Report | Metric Type (R5) |
+| --- | --- | --- |
+| Journal Report 1 | Journal Usage by Access Type TR_J3 | Total_Item_Requests |
+| Journal Report 1 Gold OA | Journal Usage by Access Type TR_J3 | Total_Item_Requests |
+| Journal Report 2 | Journal Access Denied TR_J2 | No_License
+
 
 ### Details and Specifications of COUNTER reports
 
