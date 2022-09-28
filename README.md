@@ -8,12 +8,12 @@ Project COUNTER’s mission “COUNTER exists to develop and maintain the standa
 
 COUNTER's standardized usage reports allow libraries to:
 
-• Compare usage easily across different publisher platforms & vendors and reports/formats are standard
-• Assess user activity, in relationship to their content & improve user experience
-• Inform renewal and new purchasing decisions
-• Justify budget spend to their stakeholders
-• Inform faculty/power-users about the value & use of current library resources
-• Derive “cost-per-use” for content
+- Compare usage easily across different publisher platforms & vendors and reports/formats are standard
+- Assess user activity, in relationship to their content & improve user experience
+- Inform renewal and new purchasing decisions
+- Justify budget spend to their stakeholders
+- Inform faculty/power-users about the value & use of current library resources
+- Derive “cost-per-use” for content
 
 ### Whom is COUNTER for?
 
@@ -127,7 +127,7 @@ Please visit their site for more information on the scope of COUNTER
 
 ##### Journal Report - Full Text Article Requests
 
-###### Journal Report 1 (R4)
+###### Journal Report 1 (R4) & Journal Report 1 GOA (R4)
 
 - Notable Columns: Journal (Title) | Publisher | Print ISSN | Reporting Period Total | Reporting Period HTML | Reporting Period PDF | Jan-YY to Dec-YY
 
@@ -137,6 +137,20 @@ Please visit their site for more information on the scope of COUNTER
 
 - Additionally, some reports have a total entry as the first row after the headers. I used iloc(), an index-based selection technique to exclude this row since it's not useful in our analysis.
 
+- Created an Access_Type columns (present in TR_J3 report) to distinguish controlled vs gold open access entries.
+
+- Journal Report 1 --> Access_Type: "Controlled" and Journal Report 1 GOA --> Access_Type: "OA_Gold"
+
+- Essentially, the end goal is to combine the Journal 1, Journal 1 GOA, and Journal Access TR_J3 reports into one dataset.
+
 ##### Journal Usage by Access Type TR_J3 (R5)
 
 - Notable Columns: Title | Publisher | Print_ISSN | Online_ISSN | Access_Type | Metric Type | Reporting_Period_Total | Jan-YY to Dec-YY
+
+![tr_j3](https://github.com/AlaoSUL/COUNTER_Reports/blob/main/Images/tr_j3r5.PNG)
+
+- Contrary to R4, R5's first 13 rows are general information so I extended the skip_row range to index 13.
+
+- Similar to R4, some reports have a total entry so I used iloc() to exclude this line.
+
+- Renamed a few columns for the dataframes to merge correctly: Title --> Journal | Print_ISSN --> Print ISSN | Online_ISSN --> Online ISSN
