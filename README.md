@@ -125,7 +125,7 @@ Please visit their site for more information on the scope of COUNTER
 
 - Functools: provides useful features that make it easier to work with high order functions (a function that returns a function or takes another function as an argument ). With these features, you can reuse or extend the utility of your functions or callable object without rewriting them.
 
-##### Journal Report - Full Text Article Requests
+#### Journal Report - Full Text Article Requests
 
 ###### Journal Report 1 (R4) & Journal Report 1 GOA (R4)
 
@@ -154,3 +154,7 @@ Please visit their site for more information on the scope of COUNTER
 - Similar to R4, some reports have a total entry so I used iloc() to exclude this line.
 
 - Renamed a few columns for the dataframes to merge correctly: Title --> Journal | Print_ISSN --> Print ISSN | Online_ISSN --> Online ISSN
+
+##### Code Snippet of above steps
+
+![dcjr1](https://github.com/AlaoSUL/COUNTER_Reports/blob/main/Images/dcjr1.PNG)
