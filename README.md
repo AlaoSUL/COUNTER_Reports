@@ -190,5 +190,18 @@ to datetime since leading zeros in a integer are no longer permitted. The column
 
 - The current workaround is a bit manual until I find a more efficient way to solve this data incompatibility.
 
-- In the export Excel file, I will convert the headers into a short date format "Jan-YY" or "Jan-15" which makes it more digestible when imported
-into Tableau for analysis. 
+- In the export Excel file, I converted the headers into a short date format "Jan-YY" or "Jan-15" which makes it more digestible when imported
+into Tableau.
+
+
+#### Merging Journal Reports with Subject Fields (E.G Elsevier)
+
+- As part of our analysis, we wanted to incorporate subject categories/disciplines to merge with our journal and book usage. We can drill down to see trends among categories/disciplines from year to year.
+
+- The six publishers are Cambridge, Elsevier, Sage, SpringerNature, Taylor & Francis, and Wiley.
+
+- I was able to find [Elsevier Journal w Subjects via Google Searches](https://phdtalks.org/2021/05/download-elsevier-journal-list-with-impact-factor-2021-pdf-xls.html)
+
+- Upon request, Cambridge, Sage, and Wiley provided these journal/book with subject fields.
+
+- SpringNature has an [API](https://dev.springernature.com/) that allows developers to access the data.  
