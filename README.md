@@ -155,6 +155,13 @@ Please visit their site for more information on the scope of COUNTER
 
 - Renamed a few columns for the dataframes to merge correctly: Title --> Journal | Print_ISSN --> Print ISSN | Online_ISSN --> Online ISSN
 
+- Created a list of dataframes
+
+- Concatenated the list of dataframes
+
+- Fill NaN values from previous years: The concatenation function stacks each dataframe based on similar columns so future years will have NaN values which need to be filled with 0 to represent zero usage since we cannot travel forward in time.
+
+
 ##### Code Snippet of above steps
 
 ![dcjr1](https://github.com/AlaoSUL/COUNTER_Reports/blob/main/Images/dcjr1.PNG)
