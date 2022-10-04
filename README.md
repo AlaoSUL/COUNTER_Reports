@@ -161,17 +161,16 @@ Please visit their site for more information on the scope of COUNTER
 
 - Contrary to R4, R5's first 13 rows are general information so I extended the skip_row range to index 13.
 
+##### Code Snippet of data cleaning steps for TR_J3
+
+![dcjr1](https://github.com/AlaoSUL/COUNTER_Reports/blob/main/Images/dcjr1.PNG)
+
 - Similar to R4, some reports have a total entry so I used iloc() to exclude this line.
 
 - Renamed a few columns for the dataframes to merge correctly: Title --> Journal | Print_ISSN --> Print ISSN | Online_ISSN --> Online ISSN
 
 - Created a list of dataframes
 
-- Concatenated the list of dataframes
+- Concatenate vertically (axis = 0) using columns found in all dataframes
 
-- Fill NaN values from previous years: The concatenation function stacks each dataframe based on similar columns so future years will have NaN values which need to be filled with 0 to represent zero usage since we cannot travel forward in time.
-
-
-##### Code Snippet of above steps
-
-![dcjr1](https://github.com/AlaoSUL/COUNTER_Reports/blob/main/Images/dcjr1.PNG)
+- Fill NaN values from previous years: There will be NaN values since month/year columns will be extended to the right (wider). We will fill these columns with 0 as there cannot be usage in future dates.
