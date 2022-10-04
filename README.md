@@ -202,6 +202,12 @@ into Tableau.
 
 - I was able to find [Elsevier Journal w Subjects via Google Searches](https://phdtalks.org/2021/05/download-elsevier-journal-list-with-impact-factor-2021-pdf-xls.html)
 
-- Upon request, Cambridge, Sage, and Wiley provided these journal/book with subject fields.
+- Accuracy of Elsevier List: Out of 37,450 rows, there were 68 entries with no corresponding subject fields which represents only 0.18% of the data. As a result, the list had 99.82% of Elsevier journals used between 2015-2021 at Stanford University. 
 
-- SpringNature has an [API](https://dev.springernature.com/) that allows developers to access the data.  
+- Upon request, Cambridge, Sage, and Wiley provided these lists.
+
+- SpringNature has an [API](https://dev.springernature.com/) that allows developers to access the data.
+
+##### How to merge with the final reports
+
+- The merge can be accomplished with a VLOOKUP in Excel. The columns needed will be ISSN (Journals) or ISBN (Books) with Top Level, Primary Level, and Secondary Level fields.
