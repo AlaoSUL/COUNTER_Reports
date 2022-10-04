@@ -174,3 +174,18 @@ Please visit their site for more information on the scope of COUNTER
 - Concatenate vertically (axis = 0) using columns found in all dataframes
 
 - Fill NaN values from previous years: There will be NaN values since month/year columns will be extended to the right (wider). We will fill these columns with 0 as there cannot be usage in future dates.
+
+##### Combine JR1/GOA and TR_J3
+
+![combinej1](https://github.com/AlaoSUL/COUNTER_Reports/blob/main/Images/combine_elsevier.PNG)
+
+##### Issue with generated Excel file from above
+
+![fileloadeddate](https://github.com/AlaoSUL/COUNTER_Reports/blob/main/Images/dateissue.PNG)
+
+![dataissue1](https://github.com/AlaoSUL/COUNTER_Reports/blob/main/Images/datetime_issue.PNG)
+![dataissue2](https://github.com/AlaoSUL/COUNTER_Reports/blob/main/Images/datetime_issue2.PNG)
+- COUNTER reports expresses the month/year columns in this format "YYYY-MM-DD 00:00:00". The datatype shows as an int64 but I am unable to convert
+to datetime since leading zeros in a integer are no longer permitted. The column cannot be recognized when the column field is put as a string.
+
+- The current workaround is a bit manual until I find a more efficient way to solve this data incompatibility.
