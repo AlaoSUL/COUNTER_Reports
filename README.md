@@ -127,7 +127,7 @@ Please visit their site for more information on the scope of COUNTER
 
 #### Journal Report - Full Text Article Requests
 
-###### Journal Report 1 (R4) & Journal Report 1 GOA (R4)
+###### Journal Report 1 (R4)
 
 - Notable Columns: Journal (Title) | Publisher | Print ISSN | Reporting Period Total | Reporting Period HTML | Reporting Period PDF | Jan-YY to Dec-YY
 
@@ -137,11 +137,21 @@ Please visit their site for more information on the scope of COUNTER
 
 - Additionally, some reports have a total entry as the first row after the headers. I used iloc(), an index-based selection technique to exclude this row since it's not useful in our analysis.
 
-- Created an Access_Type columns (present in TR_J3 report) to distinguish controlled vs gold open access entries.
-
-- Journal Report 1 --> Access_Type: "Controlled" and Journal Report 1 GOA --> Access_Type: "OA_Gold"
+- Created an Access_Type column (present in TR_J3) to distinguish controlled --> Access_Type: "Controlled"
 
 - Essentially, the end goal is to combine the Journal 1, Journal 1 GOA, and Journal Access TR_J3 reports into one dataset.
+
+###### Journal Report 1 GOA (R4)
+
+- Same columns as the Journal 1 report except usage data is for Gold Open Access (GOA) Articles only
+
+- Created an Access Type column (present in TR_J3) to distinguish GOA --> Access_Type: "OA_Gold"
+
+- This additional column is necessary to distinguish between controlled and GOA articles and analyze usage within the same month/year.
+
+
+![el_goa1](https://github.com/AlaoSUL/COUNTER_Reports/blob/main/Images/Else_GOAp1.PNG)
+![el_goa2](https://github.com/AlaoSUL/COUNTER_Reports/blob/main/Images/Else_GOAp2.PNG)
 
 ##### Journal Usage by Access Type TR_J3 (R5)
 
