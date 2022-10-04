@@ -189,3 +189,6 @@ Please visit their site for more information on the scope of COUNTER
 to datetime since leading zeros in a integer are no longer permitted. The column cannot be recognized when the column field is put as a string.
 
 - The current workaround is a bit manual until I find a more efficient way to solve this data incompatibility.
+
+- In the export Excel file, I will convert the headers into a short date format "Jan-YY" or "Jan-15" which makes it more digestible when imported
+into Tableau for analysis. 
