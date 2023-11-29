@@ -99,9 +99,24 @@ Navigate to the "Import" Tab:
 2. Choose File:
 - On the "Import" page, you'll find a section where you can choose a file to import. Click on the "Choose File" button and select the CSV file you want to import from your local machine.
 
+**Note: There is a 32MB file size limit for CSV. You need to compress the CSV file and file name must end in the following format: [filename.csv.zip]**
+
 3. Specify CSV Settings:
 - phpMyAdmin will attempt to automatically detect the CSV format. However, you may need to review and adjust the import settings based on your CSV file. This includes specifying the format of the CSV (e.g., CSV using LOAD DATA), field separators, and other options.
 
+![import table settings](https://github.com/AlaoSUL/COUNTER_Reports/blob/main/Images/import_table_settings.png)
+
+- Uncheck the Partial Import options
+
+- Enter 1 in the "Number of rows to skip, starting from the first row" or else the headers will be imported into the table.
+
+- Column names: **If the data in each row of the file is not in the same order as in the database, list the corresponding column names here. Column names must be separated by commas and not enclosed in quotations.**
+
+- The use of backticks around the month abbreviations (e.g., `19-Jan`, `19-Feb`, etc.) is a common convention in databases and data-related contexts, especially when dealing with column or field names. The backticks are often used to denote that the enclosed text is a single identifier or a specific name.
+
+```
+Title, Publisher, Publisher_ID, Platform, DOI, Proprietary_ID, ISBN, Print_ISSN, Online_ISSN, Subject, URI, Data_Type, Section_Type, YOP, Access_Type, Access_Method, Metric_Type, Reporting_Period_Total, `19-Jan`, `19-Feb`, `19-Mar`, `19-Apr`, `19-May`, `19-Jun`, `19-Jul`, `19-Aug`, `19-Sep`, `19-Oct`, `19-Nov`, `19-Dec`
+```
 4. Execute Import:
 
 - Once you've configured the settings, scroll down to the bottom of the page and click on the "Go" button to start the import process.
