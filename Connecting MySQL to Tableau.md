@@ -80,3 +80,31 @@ Reporting_Period_Total INT,
 ```
 
 ![phpMyAdmin Structure Screen shot](https://github.com/AlaoSUL/COUNTER_Reports/blob/main/Images/phpmyAdmin%20-%20structure.png)
+
+
+### Importing data into tables
+
+1a. Select Database:
+- On the left side, you'll see a list of databases. Choose the database into which you want to import the CSV file.
+Navigate to the "Import" Tab:
+
+**Once inside the selected database, select the desired table to import since we want to update specific tables. Below are use cases for importing at a database vs table level.** Click on the "Import" tab.
+
+1b. Use Cases:
+- Importing into a database is commonly used for tasks like database backup restoration or migration to a new server.
+![import database](https://github.com/AlaoSUL/COUNTER_Reports/blob/main/Images/import_database.png)
+- Importing into a specific table is useful for tasks like adding new records or updating existing records in a targeted manner.
+![import table](https://github.com/AlaoSUL/COUNTER_Reports/blob/main/Images/import_data_table.png)
+
+2. Choose File:
+- On the "Import" page, you'll find a section where you can choose a file to import. Click on the "Choose File" button and select the CSV file you want to import from your local machine.
+
+3. Specify CSV Settings:
+- phpMyAdmin will attempt to automatically detect the CSV format. However, you may need to review and adjust the import settings based on your CSV file. This includes specifying the format of the CSV (e.g., CSV using LOAD DATA), field separators, and other options.
+
+4. Execute Import:
+
+- Once you've configured the settings, scroll down to the bottom of the page and click on the "Go" button to start the import process.
+Verification and Confirmation:
+
+- After the import process completes, phpMyAdmin will display a message indicating whether the import was successful. If there are any errors, they will be reported, and you may need to review your CSV file or import settings.
