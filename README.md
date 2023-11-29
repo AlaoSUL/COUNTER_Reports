@@ -202,11 +202,22 @@ into Tableau.
 
 - I was able to find [Elsevier Journal w Subjects via Google Searches](https://phdtalks.org/2021/05/download-elsevier-journal-list-with-impact-factor-2021-pdf-xls.html)
 
-- Accuracy of Elsevier List: Out of 37,450 rows, there were 68 entries with no corresponding subject fields which represents only 0.18% of the data. As a result, the list had 99.82% of Elsevier journals used between 2015-2021 at Stanford University. 
+- Accuracy of Elsevier List: Out of 37,450 rows, there were 68 entries with no corresponding subject fields which represents only 0.18% of the data. As a result, the list had 99.82% of Elsevier journals used between 2015-2021 at Stanford University.
 
 - Upon request, Cambridge, Sage, and Wiley provided these lists.
 
 - SpringNature has an [API](https://dev.springernature.com/) that allows developers to access the data.
+
+### Using Digital Object Identifier (DOI) to scrape subject/discipline information
+
+- Each Title Master report contains a DOI column that can be transformed into a URL link (adding https://[doi here].org)
+
+- Using BeautifulSoup, a Python package for parsing XML and HTML, I wrote a for loop to iterate over each DOI and extract the nested tag with the subject information.    
+
+- Please refer to this notebook for detailed documentation.
+
+
+#### Standardizing Subjects Among Publishers 
 
 ##### How to merge with the final reports
 
