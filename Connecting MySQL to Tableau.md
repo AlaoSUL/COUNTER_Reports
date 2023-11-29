@@ -78,3 +78,5 @@ Reporting_Period_Total INT,
 );
 
 ```
+
+[phpMyAdmin Structure Screen shot](https://github.com/AlaoSUL/COUNTER_Reports/blob/main/Images/phpmyAdmin%20-%20structure.png)
