@@ -148,3 +148,72 @@ Upon a successful connection, you will see the tables populate on the left side 
 phpMyAdmin        |   Tableau interface
 :----------------:|:-------------------:
 ![phpMyAdmin table list](https://github.com/AlaoSUL/COUNTER_Reports/blob/main/Images/phpmyAdmin_table%20list.png) | ![tableau server connected](https://github.com/AlaoSUL/COUNTER_Reports/blob/main/Images/tableau_server_connected.png)
+
+
+
+## Connect to a Custom SQL Query
+
+Though there are several common reasons why you might use custom SQL, you can use custom SQL to union your data across tables, recast fields to perform cross-database joins, restructure or reduce the size of your data for analysis, etc.
+
+### Combine your tables vertically (union)
+
+1. After connecting to your data, double-click the **New Custom SQL** option on the Data Source Page
+![custom SQL](https://github.com/AlaoSUL/COUNTER_Reports/blob/main/Images/custom_SQL_query.png)
+
+2. Enter your query into the text box.
+
+3. When finished, click OK
+
+When you hit OK, the query runs and the custom SQL query appears in the logical layer of the canvas. Only relevant fields from the custom SQL query display in the data grid on the Data Source page.
+
+![custom_SQL_query2](https://github.com/AlaoSUL/COUNTER_Reports/blob/main/Images/custom_SQL_query2.png)
+
+
+4. Our tables are separated by years so will need to UNION each month for every given year. Thus, the custom SQL query will be extremely long. Here's a snippet:
+
+```
+SELECT Title,
+Publisher,
+YOP,
+URI,
+Subject,
+Access_Type,
+Metric_Type,
+CAST('2019-01-01' AS DATE) as 'Year 2',
+`19-Jan` as 'Num Requests'
+FROM title_master_19_journals
+UNION ALL
+SELECT Title,
+Publisher,
+YOP,
+URI,
+Subject,
+Access_Type,
+Metric_Type,
+CAST('2019-02-01' AS DATE) as 'Year 2',
+`19-Feb` as 'Num Requests'
+FROM title_master_19_journals
+UNION ALL
+SELECT Title,
+Publisher,
+YOP,
+URI,
+Subject,
+Access_Type,
+Metric_Type,
+CAST('2019-03-01' AS DATE) as 'Year 2',
+`19-Mar` as 'Num Requests'
+FROM title_master_19_journals
+UNION ALL....
+
+```
+
+Relevant Fields   |  CAST Function for Year  |
+:----------------:|:------------------------:|:--------------------
+Title,            | 
+Publisher,        |
+YOP,              |
+URI,              |
+Subject,          |
+Access_Type,      |
+Metric_Type       |
