@@ -1,4 +1,4 @@
-# MySQL to Tableau
+# MySQL
 
 
 ## MySQL Database vs. Excel File as a Data Source
@@ -123,3 +123,28 @@ Title, Publisher, Publisher_ID, Platform, DOI, Proprietary_ID, ISBN, Print_ISSN,
 Verification and Confirmation:
 
 - After the import process completes, phpMyAdmin will display a message indicating whether the import was successful. If there are any errors, they will be reported, and you may need to review your CSV file or import settings.
+
+
+# Connection of MYSQL to Tableau
+
+## Connect to MySQL server
+
+1. In Tableau Desktop, on the left side of the screen, click on "Connect to Data" to open the Connect pane.
+
+2. Under the "To a Server" section, find and select "MySQL."
+
+3. In the "Server" field, enter the hostname or IP address of your MySQL server.
+
+4. In the "Port" field, enter the port number used by your MySQL server (default is 3306).
+
+5. Specify the database you want to connect to in the "Database" field.
+
+6. If your MySQL server requires authentication, enter your MySQL username and password.
+
+7. Click on the "Sign In" button.
+
+Upon a successful connection, you will see the tables populate on the left side in Tableau. These tables will be the same as those in your phpMyAdmin view.
+
+phpMyAdmin        |   Tableau interface
+:----------------:|:-------------------:
+![phpMyAdmin table list](https://github.com/AlaoSUL/COUNTER_Reports/blob/main/Images/phpmyAdmin_table%20list.png) | ![tableau server connected](https://github.com/AlaoSUL/COUNTER_Reports/blob/main/Images/tableau_server_connected.png)
