@@ -208,6 +208,6 @@ UNION ALL....
 
 ```
 
-Relevant Fields   |  CAST Function for Year  |
-:----------------:|:------------------------:|:--------------------
+Relevant Fields   |  CAST Function for Year  
+:----------------:|:------------------------:
 Title, Publisher, YOP, URI, Subject, Access_Type, Metric_Type |
