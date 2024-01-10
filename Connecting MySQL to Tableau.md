@@ -210,4 +210,4 @@ UNION ALL....
 
 Relevant Fields   |  CAST Function for Year  
 :----------------:|:------------------------:
-Title, Publisher, YOP, URI, Subject, Access_Type, Metric_Type, `20-Jan` as `Num_Request` |  We needed to create a Date field to accurately represent the given month and year for each table. The COUNTER reports show usage by month so I used 'YYYY-MM-01' as the string to CAST to DATE property called "Year 2."
+Title, Publisher, YOP, URI, Subject, Access_Type, Metric_Type, `YY-Jan` as `Num_Request` (this will grab the corresponding usage number for that given month and year.) |  We needed to create a Date field to accurately represent the given month and year for each table. The COUNTER reports show usage by month so I used 'YYYY-MM-01' as the string to CAST to DATE property called "Year 2."
